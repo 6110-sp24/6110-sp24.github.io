@@ -13,6 +13,9 @@ collections:
   pages:
     output: true
     permalink: /:name
+  notes:
+    output: true
+    permalink: /:collection/:name
 
 # Set up the _pages collection to host most course-related pages
 # Home is in index.md
@@ -23,9 +26,16 @@ defaults:
       type: "pages"
     values:
       layout: page
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: note
 
 # Make just_the_docs aware of the _pages collection
 just_the_docs:
   collections:
     pages:
       name: Pages
+    notes:
+      name: Notes

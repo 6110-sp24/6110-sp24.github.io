@@ -44,6 +44,6 @@ defaults:
 just_the_docs:
   collections:
     pages:
-      name: Pages
-    notes:
-      name: Notes
+      name: Course Handouts
+    # notes:
+    #   name: Guides & Tutorials

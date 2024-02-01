@@ -3,7 +3,16 @@ title: About
 layout: home
 ---
 
-# Welcome to Computer Language Engineering (6.110)
+<h1> Welcome to Computer Language Engineering (6.110) </h1>
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Basic Information
 

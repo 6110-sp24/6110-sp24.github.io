@@ -21,21 +21,6 @@ layout: home
 [031]: https://student.mit.edu/catalog/m6a.html#6.1020
 [004]: https://student.mit.edu/catalog/m6a.html#6.1910
 
-### Recommended Texts
-
-6.110 has no officially required textbook. All of the material you need is taught in class, with the exception of the documentation for your implementation language and associated libraries.
-
-We can point you to many resources such as well-known textbooks, technical papers, interesting and useful blog posts, and reference guides. These are available on the [Resources]({% link _pages/resources.md %}) page.
-
-### Communication
-
-- We will distribute assignments here and make all announcements via [Piazza][piazza]. Important announcements will also be made via email.
-  - Office hours details will be announced on Piazza.
-  - Since lecture dates are not all finalized at the start of the semester, please check the schedule regularly.
-- For all general questions and/or concerns, please post publicly on Piazza. If the matter is private, please post privately on [Piazza][piazza] or email the course staff at <6.110-staff@mit.edu>.
-
-[piazza]: https://piazza.com/class/ls0no6nhtr817n
-
 ### Course Staff
 
 #### Faculty
@@ -51,6 +36,21 @@ We can point you to many resources such as well-known textbooks, technical paper
 
 Please contact the course staff by posting on [Piazza][piazza] or emailing <6.110-staff@mit.edu>.
 
+### Communication
+
+- We will distribute assignments here and make all announcements via [Piazza][piazza]. Important announcements will also be made via email.
+  - Office hours details will be announced on Piazza.
+  - Since lecture dates are not all finalized at the start of the semester, please check the schedule regularly.
+- For all general questions and/or concerns, please post publicly on Piazza. If the matter is private, please post privately on [Piazza][piazza] or email the course staff at <6.110-staff@mit.edu>.
+
+[piazza]: https://piazza.com/class/ls0no6nhtr817n
+
+### Recommended Texts
+
+6.110 has no officially required textbook. All of the material you need is taught in class, with the exception of the documentation for your implementation language and associated libraries.
+
+We can point you to many resources such as well-known textbooks, technical papers, interesting and useful blog posts, and reference guides. These are available on the [Resources]({% link _pages/resources.md %}) page.
+
 ## Course Components
 
 We want you to succeed in this course. You should be aware of the following components of the course and utilize them for your benefit.
@@ -62,7 +62,7 @@ Nominally, the lectures are one hour long and take place at [32-124][bldg] at th
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
 - At 12 p.m. (noon) on Tuesdays and Thursdays.
 
-Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects. This is subject to agreement between the course staff and lecture attendees. Please check the schedule regularly. We will also announce urgent changes on [Piazza][piazza].
+Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects. There are often weeks that do not have any lectures. This is subject to agreement between the course staff and lecture attendees. Please check the schedule regularly. We will also announce urgent changes on [Piazza][piazza].
 
 ### Re-lectures
 

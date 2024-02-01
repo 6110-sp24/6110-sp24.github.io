@@ -5,6 +5,12 @@ nav_order: 20
 
 ## Calendar
 
+The following calendar only displays important dates.
+
+Nominally, there is a lecture every day. The lectures are one hour long and take place at [32-124][bldg] at the following times:
+- At 11 a.m. on Mondays, Wednesdays, and Fridays.
+- At 12 p.m. (noon) on Tuesdays and Thursdays.
+
 |     | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :-: | :----: | :-----: | :-------: | :------: | :----: |
 | 02/05 - 02/09 | _First day of classes_ | | | | Phase 1 released |
@@ -22,3 +28,46 @@ nav_order: 20
 | 04/29 - 05/03 | | | | | **Quiz 2** |
 | 05/06 - 05/10 | | | | | |
 | 05/13 - 05/17 | **Phase 5 due** | _Last day of classes_ | | | |
+
+## List of topics
+
+- Parsing
+  - Regular expressions
+  - Deterministic and non-deterministic finite automata
+  - Context-free grammars
+  - Parse trees
+  - Recursive descent parser
+  - Shift-reduce parsing
+  - Parser construction
+- Intermediate representations
+  - Object-oriented programming
+  - Symbol tables
+  - Semantic analysis
+- Unoptimized code generation
+  - Control flow graph
+  - Linearizing
+  - Short circuiting
+  - Assembly code
+  - Procedure calls and stack management
+  - Peephole optimizations
+- Program analysis and optimizations
+  - Value numbering
+  - Common sub-expression elimination
+  - Copy propagation
+  - Constant propagation
+  - Dead code elimination
+  - Strength reduction
+  - Algebraic simplification
+- Register allocation
+  - Def-use chains
+  - Web-based register allocation
+  - Interference graphs
+  - Liveness analysis
+  - Graph coloring with Chaitin's Algorithm
+  - Spilling and splitting
+- Parallelization
+  - Data dependence analysis
+  - Induction variables
+- Data-flow analysis foundations
+  - Order theory and lattices
+  - Fixed point iteration

@@ -22,7 +22,7 @@ If you find interesting resources you think other students could benefit from, p
 There is no required textbook for this class, but if you insist, we think this is a good reference textbook to have:
 
 1. **Cooper, Keith D., and Torczon, Linda, _Engineering a Compiler_, 3rd ed., Morgan Kaufmann, 2022.**
-  - A new reference textbook for understanding modern compilers. Covers many optimizations seen in this course (e.g. dataflow, instruction scheduling, register allocation) plus a few advanced ones found in modern compilers (e.g. [static single-assignment (SSA)][ssa]).
+  - A new reference textbook for understanding modern compilers. Covers many optimizations seen in this course (e.g. data-flow, instruction scheduling, register allocation) plus a few advanced ones found in modern compilers (e.g. [static single-assignment (SSA)][ssa]).
 
 Other textbooks you may be interested in:
 

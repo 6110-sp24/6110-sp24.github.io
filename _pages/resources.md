@@ -27,15 +27,15 @@ There is no required textbook for this class, but if you insist, we think this i
 Other textbooks you may be interested in:
 
 {:style="counter-reset:step-counter 1"}
-1. **Robert Nystrom, [_Crafting Interpreters_](https://craftinginterpreters.com/). Genever Benning, 2021.**
+1. **Robert Nystrom, [_Crafting Interpreters_](https://craftinginterpreters.com/), Genever Benning, 2021.**
   - Our default recommendation for people who want to learn about compilers in general (i.e. outside of this course).
   - This is an _amazing_ introduction to implementing a parser, an interpreter, and a bytecode virtual machine in Java and C.
   - The section on parsers may be useful for phase 1 of the project.
   - The rest of the book is arguably more relevant to 6.1120<sub>\[6.818\]</sub> Dynamic Computer Language Engineering.
-1. **A. W. Appel and J. Palsberg, [_Modern Compiler Implementation in Java_][appel-java]. Cambridge University Press, 2002.**
+1. **A. W. Appel and J. Palsberg, [_Modern Compiler Implementation in Java_][appel-java], Cambridge University Press, 2002.**
   - A classic book. Guides you through a compiler project with thoughtful code organization. Otherwise similar to _Cooper et al._ in content.
   - Also has a C version and ML version.
-1. **Aho, Alfred V., and Alfred V. Aho. _Compilers: Principles, Techniques, & Tools_. 2nd ed., Pearson Addison-Wesley, 2007.**
+1. **Aho, Alfred V., et al. _Compilers: Principles, Techniques, & Tools_, 2nd ed., Pearson Addison-Wesley, 2007.**
   - A very, very, thick, classic reference on writing an optimizing compiler for C-like languages (e.g. Decaf).
   - Also called "the dragon book." Everyone has heard of this.
 1. **Steven Muchnick, _Advanced Compiler Design and Implementation_, Morgan Kaufmann, 1997.**

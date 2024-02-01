@@ -42,7 +42,7 @@ We can point you to many resources such as well-known textbooks, technical paper
 - We will distribute assignments here and make all announcements via [Piazza][piazza]. Important announcements will also be made via email.
   - Office hours details will be announced on Piazza.
   - Since lecture dates are not all finalized at the start of the semester, please check the schedule regularly.
-- For all general questions and/or concerns, please post on Piazza. If the matter is private, please email the TAs at **TODO TA EMAIL**.
+- For all general questions and/or concerns, please post publicly on Piazza. If the matter is private, please post privately on [Piazza][piazza] or email the course staff at <6.110-staff@mit.edu>.
 
 [piazza]: https://piazza.com/class/ls0no6nhtr817n
 
@@ -54,13 +54,12 @@ We can point you to many resources such as well-known textbooks, technical paper
 
 #### Teaching Assistants
 
-- [Krit Boonsiriseth](https://www.krit.io/) (<talkon@mit.edu>)
-- [Pleng Chomphoochan](https://tcpc.me/) (<tcpc@mit.edu>)
+- Krit Boonsiriseth (<talkon@mit.edu>)
+- Pleng Chomphoochan (<tcpc@mit.edu>)
 - Youran Gao (<youran@mit.edu>)
 - Tarushii Goel (<tarushii@mit.edu>)
 
-Please contact the TAs at **TODO TA EMAIL**.
-
+Please contact the course staff by posting on [Piazza][piazza] or emailing <6.110-staff@mit.edu>.
 
 ## Course Components
 

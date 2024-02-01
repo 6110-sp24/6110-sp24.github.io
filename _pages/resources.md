@@ -15,7 +15,7 @@ This section contains a number of useful and/or interesting references selected 
 1. [x64 cheat sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf) -- lists and tables detailing registers and assembly commands
 1. [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/) --- navigable reference by Félix Cloutier derived from the Intel manual
 
-#### Provided During Exams
+### Provided During Exams
 
 1. [x64 cheat sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf) -- lists and tables detailing registers and assembly commands
 

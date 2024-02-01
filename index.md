@@ -42,6 +42,7 @@ Please contact the course staff by posting on [Piazza][piazza] or emailing <6.11
   - Office hours details will be announced on Piazza.
   - Since lecture dates are not all finalized at the start of the semester, please check the schedule regularly.
 - For all general questions and/or concerns, please post publicly on Piazza. If the matter is private, please post privately on [Piazza][piazza] or email the course staff at <6.110-staff@mit.edu>.
+- Miniquizzes and status reports need to be completed via Gradescope. The join code is __<u>2P4YY5</u>__.
 
 [piazza]: https://piazza.com/class/ls0no6nhtr817n
 

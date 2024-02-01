@@ -31,7 +31,7 @@ layout: home
 
 - Krit Boonsiriseth (<talkon@mit.edu>)
 - Pleng Chomphoochan (<tcpc@mit.edu>)
-- Youran Gao (<youran@mit.edu>)
+- Youran (Yoland) Gao (<youran@mit.edu>)
 - Tarushii Goel (<tarushii@mit.edu>)
 
 Please contact the course staff by posting on [Piazza][piazza] or emailing <6.110-staff@mit.edu>.
@@ -65,13 +65,17 @@ Nominally, the lectures are one hour long and take place at [32-124][bldg] at th
 
 Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects. There are often weeks that do not have any lectures. This is subject to agreement between the course staff and lecture attendees. Please check the schedule regularly. We will also announce urgent changes on [Piazza][piazza].
 
-### Re-lectures
+#### Re-lectures
 
 If you are unable to attend a lecture, please send a request for a re-lecture to 6.110-staff@mit.edu
 
 ### Compiler project
 
 This class involves a group project, where you will build a compiler almost entirely from scratch. Details about the project can be found on the [Project Overview]({% link _pages/project-overview.md %}) page. Specific instructions for each phase of the project will be released later in the class.
+
+### Mini-Quizzes and Weekly Check-ins
+
+In an effort to ensure your project stays on track, your team should submit a short weekly check-in on Gradescope. In addition, we will have a weekly "mini-quiz" graded for participation credit on the concepts covered in lecture that week. We believe these mini-quizzes will be useful to check your understanding of the material as well as good quiz preparation.
 
 ### Quizzes
 

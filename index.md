@@ -5,6 +5,8 @@ layout: home
 
 <h1> Welcome to Computer Language Engineering (6.110) </h1>
 
+> _⚠️ This website is still under active development. If you are taking the class, please note that the information currently on this website may not be completely accurate while this notice is up. ⚠️_
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -65,6 +67,10 @@ We can point you to many resources such as well-known textbooks, technical paper
 
 We want you to succeed in this course. You should be aware of the following components of the course and utilize them for your benefit.
 
+### Compiler project
+
+The main component of this course (75% of the grade) is a group project where you will build a compiler almost entirely from scratch. Details about the project can be found on the [Project Overview]({% link _pages/project-overview.md %}) page. Specific instructions for each phase of the project will be released later in the class.
+
 ### Lectures
 
 Nominally, the lectures are one hour long and take place at [32-124][bldg] at the following times:
@@ -72,15 +78,11 @@ Nominally, the lectures are one hour long and take place at [32-124][bldg] at th
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
 - At 12 p.m. (noon) on Tuesdays and Thursdays.
 
-Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects. There are often weeks that do not have any lectures. This is subject to agreement between the course staff and lecture attendees. Please check the schedule regularly. We will also announce urgent changes on [Piazza][piazza].
+ __Please check the schedule regularly.__ Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects. There are often weeks that do not have any lectures. (Last year, there were around 7 weeks of lectures in total.) We will also announce urgent changes on [Piazza][piazza].
 
 #### Re-lectures
 
-If you are unable to attend a lecture, please send a request for a re-lecture to 6.110-staff@mit.edu
-
-### Compiler project
-
-This class involves a group project, where you will build a compiler almost entirely from scratch. Details about the project can be found on the [Project Overview]({% link _pages/project-overview.md %}) page. Specific instructions for each phase of the project will be released later in the class.
+If you are unable to attend a lecture, please send a request for a re-lecture to <6.110-staff@mit.edu>. The course staff plans to give one re-lecture per one week of lecture.
 
 ### Mini-Quizzes and Weekly Check-ins
 
@@ -88,7 +90,7 @@ In an effort to ensure your project stays on track, your team should submit a sh
 
 ### Quizzes
 
-Two quizzes, each worth 10%, to be held during class time. See the [Schedule]({% link _pages/schedule.md %}) page for details.
+Two quizzes, each worth 10%, will be held during class time on the days listed on the [Schedule]({% link _pages/schedule.md %}) page. More information about quizzes will be released closer to the quiz dates.
 
 ### Office hours
 

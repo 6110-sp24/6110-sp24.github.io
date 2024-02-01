@@ -26,7 +26,7 @@ Need to make this a standard feature for page layouts.
 > 
 > Analyzes issues associated with the implementation of higher-level programming languages. Fundamental concepts, functions, and structures of compilers. The interaction of theory and practice. Using tools in building software. Includes a multi-person project on compiler design and implementation.
 
-[bldg]: http://whereis.mit.edu/map-jpg?mapterms=32]
+[bldg]: http://whereis.mit.edu/map-jpg?mapterms=32
 [catalog]: https://student.mit.edu/catalog/m6a.html#6.1100
 [031]: https://student.mit.edu/catalog/m6a.html#6.1020
 [004]: https://student.mit.edu/catalog/m6a.html#6.1910
@@ -75,29 +75,35 @@ Lecture dates are not all finalized at the start of the semester. Some lectures 
 
 ### Re-lectures
 
-### Office hours
-
-### Participation
+If you are unable to attend a lecture, please send a request for a re-lecture to 6.110-staff@mit.edu
 
 ### Compiler project
 
+This class involves a group project, where you will build a compiler almost entirely from scratch. Details about the project can be found on the [Project Overview]({% link _pages/project-overview.md %}) page. Specific instructions for each phase of the project will be released later in the class.
+
 ### Quizzes
+
+Two quizzes, each worth 10%, to be held during class time. See the [Schedule]({% link _pages/schedule.md %}) page for details.
+
+### Office hours
+
+To be announced on Piazza.
 
 
 ## Policies
 
 ### Grading
 
-| Component                                                                                | Weight |
-| ---------------------------------------------------------------------------------------- | ------ |
-| Project phase 1 (lexing and parsing)                                                     | 5%     |
-| Project phase 2 (IR and semantic checking)                                               | 5%     |
-| Project phase 3 (code generation)                                                        | 15%    |
-| Project phase 4 (dataflow optimization)                                                  | 10%    |
-| Project phase 5 (register allocation and other optimizations) <br/> and final submission | 40%    |
-| Quiz 1                                                                                   | 10%    |
-| Quiz 2                                                                                   | 10%    |
-| Participation (weekly miniquizzes and check-in form)                                     | 5%     |
+| Component                                                    | Weight |
+| ------------------------------------------------------------ | ------ |
+| Project phase 1 (lexing and parsing)                         | 5%     |
+| Project phase 2 (IR and semantic checking)                   | 5%     |
+| Project phase 3 (code generation)                            | 15%    |
+| Project phase 4 (dataflow optimization)                      | 10%    |
+| Project phase 5 (register allocation and other optimizations) <br/>and final submission | 40%    |
+| Quiz 1                                                       | 10%    |
+| Quiz 2                                                       | 10%    |
+| Participation (weekly miniquizzes and check-in form)         | 5%     |
 
 For more information on the way the compiler project is graded, see the [Project Overview]({% link _pages/project-overview.md %}).
 

@@ -47,3 +47,8 @@ just_the_docs:
       name: Course Handouts
     # notes:
     #   name: Guides & Tutorials
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow

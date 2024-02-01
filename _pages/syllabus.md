@@ -6,7 +6,9 @@ nav_order: 10
 
 <h1> Welcome to Computer Language Engineering (6.110) </h1>
 
-> _⚠️ This website is still under active development. If you are taking the class, please note that the information currently on this website may not be completely accurate while this notice is up. ⚠️_
+
+{: .warning }
+⚠️ This website is still under active development. If you are taking the class, please note that the information currently on this website may not be completely accurate while this notice is up. ⚠️
 
 <details open markdown="block">
   <summary>

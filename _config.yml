@@ -1,7 +1,6 @@
 title: 6.110 Spring 2024
 description: Course website for 6.110 Spring 2024
 theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
 
 url: https://6110-sp24.github.io
 
@@ -31,12 +30,12 @@ collections:
 defaults:
   # Default values to apply to all _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: "pages"
     values:
       layout: page
   - scope:
-      path: ""
+      path: "_notes"
       type: "notes"
     values:
       layout: note

@@ -111,7 +111,7 @@ Many of those textbooks are [available online through MIT Libraries][mitlib]. (F
 [dragon]: https://suif.stanford.edu/dragonbook/
 [might-lattice]: https://matt.might.net/articles/partial-orders/
 [lattice]: https://doi.org/10.1017/CBO9780511809088
-[pld]: https://people.csail.mit.edu/feser/pld-s23/index.html)
+[pld]: https://people.csail.mit.edu/feser/pld-s23/index.html
 [dynlang]: https://student.mit.edu/catalog/m6a.html#6.1120
 [6820]: https://student.mit.edu/catalog/m6a.html#6.5110
 [frap]: https://frap.csail.mit.edu/main

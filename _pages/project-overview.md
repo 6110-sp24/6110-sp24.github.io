@@ -41,7 +41,7 @@ A *parser* takes a sequence of tokens as input and checks to make sure they conf
 
 The *Decaf Specification* is the grammar of the language, which you will need to separate into a scanner specification and a parser specification. You will then implement the scanner and parser, either from scratch in the programming language of your choice, or by using a scanner generator (such as `lex`, `flex`, `jflex`, `antlr`) and parser generator (such as `yacc`, `bison`, `cup`, `antlr`) of your choice.
 
-There will be a short report required that will help us understand the approach you decided to take.
+There will be a short report that will help us understand the approach (i.e. hand-written, parser generator, programming language choice) you decided to take.
 
 ### Phase 2: Intermediate Representation (IR) and Semantic Checking
 
@@ -57,7 +57,7 @@ It is important that you build the symbol table, since you won't be able to buil
 
 At the end of this phase the front-end of your compiler is complete and you have designed the intermediate representation (IR) that will be used by the rest of the compiler.
 
-You will also turn in a report that details the technical details of phases 1 (however you may decide to combine your code amongst yourselves), as well as phase 2, in the format of the Project Design Document detailed below. 
+You will also turn in a short report that details how your team plans on splitting the work associated with the project, any questions, and the status of your implementation.
 
 ### Phase 3: Code Generation
 
@@ -67,7 +67,7 @@ The steps of code generation are as follows: first, the rich semantics of Decaf 
 
 Then, the corresponding x86-64 machine code is generated. Finally, the code, data structures, and storage are laid-out in the assembly format. We will provide a description of the object language. The object code created using this interface will then be run on a testing machine.
 
-You will turn in a report that details the technical details of phase 3 in the format of the Project Design Document detailed below.
+You will turn in a Project Design Document that explains the technical details of phase 1, 2, and 3. This will be reviewed by the TAs and feedback will be provided. This document will also count towards the project grade.
 
 ### Phase 4: Dataflow Optimization
 
@@ -76,7 +76,7 @@ For this phase, you are required to implement the data-flow framework and data-f
 
 We will provide a description of the framework and the required optimizations to be implemented in a later handout.
 
-You will turn in a report that details the technical details of phase 4 in the format of the Project Design Document detailed below.
+You will turn in a Project Design Document that explains the technical details of phase 4.
 
 ### Phase 5: Other Optimizations
 
@@ -89,19 +89,23 @@ You can also implement instruction scheduling, register allocation, peephole opt
 In order to identify and prioritize optimizations, you will be provided with a benchmark suite of a few simple applications.
 Your task is to analyze these programs, perhaps hand optimizing these programs, to identify which optimizations will have the highest performance impact. Your write-up needs to clearly describe the process you went through to identify the optimizations you implemented and justify them.
 
-You will turn in a report that details the technical details of phase 5 in the format of the Project Design Document detailed below. This will be reviewed by the TAs and feedback will be provided in group meetings. This document will also count towards the project grade.
+You will turn in a Project Design Document that details the technical details of phase 5. 
 
 ### Compiler Derby
 
 The last class will be the *Compiler Derby* at which your group will compete against other groups to identify the compiler that produces the fastest code. The application used for the Derby will be provided to the groups one day before the Derby. This is done in order for your group to debug the compiler and get it working on this program. However, you are forbidden from adding any application-specific hacks to make this specific program run faster.
 
-## What To Hand In
+## Grading Details
 
 For each phase, you are required to submit your *project design documents* and *complete sources* (including all files needed to build your project). Your projects will be submitted via GitHub. Do not include compiled files. Instead, you repo should contain an executable file called `build.sh` in the top-level directory which will compile your code. These files are provided for you in the skeleton code; you may modify them if you need to.
 
 Phases 2 through 5 will be done in groups. Each group will be given access to a repository for their project on Github. 
 
 There are few restrictions on how the project should be structured, except that it should be self-contained (apart from the allowed libraries and programming environment), and contain executables `build.sh` and `run.sh` in the top-level directory.
+
+We will release public tests associated with each phase, which will be released with the phase instructions. There are also private tests, which will be released **after** the due date of each phase. We will grade your submission based on both the public and private tests after each phase. 
+
+Your project design document will make up a portion of your grade for each phase. Please make sure not to neglect turning it in.
 
 ## Command Line Reference
 
@@ -130,7 +134,7 @@ For each provided language skeleton, we have provided code which is sufficient t
 
 Documentation should included in your source archive in the `doc` folder.
 
-You will also submit one design document/report written for each of the phases 2-5. Documentation should be clear, concise and readable. Acceptable formats include PDFs and plain text files.
+You will also submit one design document/report written for each of the phases. Documentation should be clear, concise and readable. Acceptable formats include PDFs and plain text files.
 
 Your documentation must include the following parts, which could be described as Design, Extras, Difficulties, and Contribution.
 Not every question or point of each part need to be addressed, just enough information to describe each portion effectively:

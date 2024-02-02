@@ -89,7 +89,7 @@ If you are unable to attend a lecture, please send a request for a re-lecture to
 
 ### Mini-Quizzes and Weekly Check-ins
 
-In an effort to ensure your project stays on track, your team should submit a short weekly check-in on Gradescope. In addition, we will have a weekly "mini-quiz" graded for participation credit on the concepts covered in lecture that week. We believe these mini-quizzes will be useful to check your understanding of the material as well as good quiz preparation.
+In an effort to ensure your project stays on track, your team should submit a short weekly check-in on Gradescope. In addition, we will have a weekly "mini-quiz" graded for completion credit on the concepts covered in lecture that week. We believe these mini-quizzes will be useful to check your understanding of the material as well as good quiz preparation.
 
 ### Quizzes
 

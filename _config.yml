@@ -13,14 +13,6 @@ aux_links:
   Piazza: https://piazza.com/class/ls0no6nhtr817n
   Gradescope: https://www.gradescope.com/courses/727449
 
-# nav_external_links:
-#   - title: GitHub
-#     url: https://github.com/6110-sp24/
-#   - title: Piazza
-#     url: https://piazza.com/class/ls0no6nhtr817n
-#   - title: Gradescope
-#     url: https://www.gradescope.com/courses/727449
-
 collections:
   pages:
     output: true

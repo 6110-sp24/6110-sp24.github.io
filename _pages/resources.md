@@ -62,7 +62,10 @@ Many of those textbooks are [available online through MIT Libraries][mitlib]. (F
     1. [Iterated Register Coalescing](http://dl.acm.org/citation.cfm?id=229546) -- Lal George / 1996. Presents improvements/alternative to Chaitin's design. If Chaitin-style (+/-Briggs) register allocation isn't enough for you, this paper is a good read - actually, it's a good read anyway, to understand the tradeoffs
     1. [Superword Level Parallelism](http://dl.acm.org/citation.cfm?id=358438) combined with loop unrolling, a simple way to implement a vectorizing compiler
 1. Miscellaneous
+    1. [Carnegie Mellon's 15-411 Compiler Design course](https://www.cs.cmu.edu/~janh/courses/411/23/schedule.html)
+    1. [Harvard's CS153 Compilers class](https://groups.seas.harvard.edu/courses/cs153/2019fa/schedule.html)
+    1. [Cornell's self-guided, online Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
     1. [Scala Patterns for Compiler Design](https://gist.github.com/rcoh/4992969)
     1. [Lecture notes from 6.5900<sub>\[6.823\]</sub> Advanced Computer Architecture](http://csg.csail.mit.edu/6.823)
     1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
-    1. [Cornell's self-guided, online Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+

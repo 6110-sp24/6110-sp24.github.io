@@ -53,13 +53,9 @@ brew install --cask temurin17
 If you run into trouble because you have multiple OpenJDK versions installed, see this [article](https://medium.com/@devkosal/switching-java-jdk-versions-on-macos-80bc868e686a) about switching between the different versions of java on MacOS.
 
 ```
-brew install ant
-```
-
-```
 brew install scala@2.13
 ```
-Make sure the environment variable `SCALA_HOME` is set to "/usr/local/opt/scala@2.13"
+Make sure the environment variable `SCALA_HOME` is set to "/usr/local/opt/scala@2.13", and that `scala -version` reports that you have Scala 2.13.
 
 Further, follow these instructions to install [Scala Build Tool](https://www.scala-sbt.org/download/)
 

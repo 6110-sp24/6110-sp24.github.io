@@ -72,7 +72,7 @@ We want you to succeed in this course. You should be aware of the following comp
 
 ### Compiler project
 
-The main component of this course (75% of the grade) is a group project where you will build a compiler almost entirely from scratch. Details about the project can be found on the [Project Overview]({% link _pages/project-overview.md %}) page. Specific instructions for each phase of the project will be released later in the class.
+The main component of this course (75% of the grade) is a group project where you will build a compiler almost entirely from scratch. Details about the project can be found on the [Project Overview]({% link _pages/project.md %}) page. Specific instructions for each phase of the project will be released later in the class.
 
 ### Lectures
 
@@ -115,7 +115,7 @@ To be announced on Piazza.
 | Quiz 2                                                       | 10%    |
 | Participation (weekly miniquizzes and check-in form)         | 5%     |
 
-For more information on the way the compiler project is graded, see the [Project Overview]({% link _pages/project-overview.md %}).
+For more information on the way the compiler project is graded, see the [Project Overview]({% link _pages/project.md %}).
 
 ### Late policy
 

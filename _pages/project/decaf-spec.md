@@ -1,6 +1,7 @@
 ---
 title: Decaf Specification
-nav_order: 50
+parent: Compiler Project
+nav_order: 1
 ---
 
 [Download PDF](assets/documents/decaf-specification.pdf)

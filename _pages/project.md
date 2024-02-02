@@ -1,5 +1,6 @@
 ---
-title: Project Overview
+title: Compiler Project
+has_children: true
 nav_order: 30
 ---
 
@@ -39,7 +40,7 @@ Non-tokens (such as whitespace or comments) are discarded. Invalid tokens (unter
 
 A *parser* takes a sequence of tokens as input and checks to make sure they conform to the language specification. In order to pass this check, the input must have all matching braces, semicolons, etc. Types, variable names, and function names are not verified. A parser outputs a *syntax tree*, a tree representation of the program.
 
-The *Decaf Specification* is the grammar of the language, which you will need to separate into a scanner specification and a parser specification. You will then implement the scanner and parser, either from scratch in the programming language of your choice, or by using a scanner generator (such as `lex`, `flex`, `jflex`, `antlr`) and parser generator (such as `yacc`, `bison`, `cup`, `antlr`) of your choice.
+The [*Decaf Specification*]({% link _pages/project/decaf-spec.md %}) is the grammar of the language, which you will need to separate into a scanner specification and a parser specification. You will then implement the scanner and parser, either from scratch in the programming language of your choice, or by using a scanner generator (such as `lex`, `flex`, `jflex`, `antlr`) and parser generator (such as `yacc`, `bison`, `cup`, `antlr`) of your choice.
 
 There will be a short report that will help us understand the approach (i.e. hand-written, parser generator, programming language choice) you decided to take.
 
@@ -49,7 +50,7 @@ A *semantic checker* takes a syntax tree as input and checks to make sure that t
 
 For example, this checks that variables are declared before they are used, that variables have the right types, and that functions are called with the right number and types of arguments.
 
-The semantic checker will also build a symbol table in which the type and location of each identifier is kept. We'll supply a complete list of the checks in the *Decaf Specification*.
+The semantic checker will also build a symbol table in which the type and location of each identifier is kept. We'll supply a complete list of the checks in the [*Decaf Specification*]({% link _pages/project/decaf-spec.md %}).
 
 Experience from past years suggests that many groups underestimate the time required to complete the static semantic checker, so you should pay special attention to this deadline.
 

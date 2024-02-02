@@ -71,7 +71,7 @@ The main component of this course (75% of the grade) is a group project where yo
 Nominally, the lectures are one hour long and take place at [32-124][bldg] at the following times:
 
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
-- At 12 p.m. (noon) on Tuesdays and Thursdays.
+- At 12 p.m. (noon) on Tuesdays and Thursdays. (While these are listed officially as "recitations," we treat them the same as lectures.)
 
  __Please check the schedule regularly.__ Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects. There are often weeks that do not have any lectures. (Last year, there were around 7 weeks of lectures in total.) We will also announce urgent changes on [Piazza][piazza].
 

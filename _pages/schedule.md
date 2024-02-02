@@ -7,11 +7,12 @@ nav_order: 20
 
 ## Calendar
 
-The following calendar only displays important dates.
+The following calendar only displays important dates. Assume there is a lecture every non-holiday weekday unless otherwise explicitly noted.
 
-Nominally, there is a lecture every day. The lectures are one hour long and take place at [32-124][bldg] at the following times:
+The lectures are one hour long and take place at [32-124][bldg] at the following times:
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
-- At 12 p.m. (noon) on Tuesdays and Thursdays.
+- At 12 p.m. (noon) on Tuesdays and Thursdays. (While these are listed officially as "recitations," we treat them the same as lectures.)
+
 
 [bldg]: http://whereis.mit.edu/map-jpg?mapterms=32
 

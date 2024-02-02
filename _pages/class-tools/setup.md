@@ -39,9 +39,9 @@ If you're using Scala, also install it:
 sudo apt install -y scala
 ```
 
-Further, follow these instructions to install [Scala Build Tool](https://www.scala-sbt.org/download/)
-
 Make sure the environment variable `SCALA_HOME` is set to "/usr/share/scala", and that `scala -version` reports that you have Scala 2.13.
+
+Further, follow these instructions to install [Scala Build Tool](https://www.scala-sbt.org/download/)
 
 ## macOS
 If you are on macOS, the equivalent commands would look like this:
@@ -51,6 +51,8 @@ brew tap homebrew/cask-versions
 brew install --cask temurin17
 ```
 If you run into trouble because you have multiple OpenJDK versions installed, see this [article](https://medium.com/@devkosal/switching-java-jdk-versions-on-macos-80bc868e686a) about switching between the different versions of Java on macOS.
+
+If you are using, Scala, make sure you install it and Scala Build Tool as follows:
 
 ```
 brew install scala@2.13

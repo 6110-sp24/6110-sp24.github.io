@@ -4,6 +4,10 @@ theme: just-the-docs
 
 url: https://6110-sp24.github.io
 
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: " " 
+
 aux_links:
   GitHub: https://github.com/6110-sp24/
   Piazza: https://piazza.com/class/ls0no6nhtr817n

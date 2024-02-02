@@ -11,6 +11,8 @@ Nominally, there is a lecture every day. The lectures are one hour long and take
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
 - At 12 p.m. (noon) on Tuesdays and Thursdays.
 
+[bldg]: http://whereis.mit.edu/map-jpg?mapterms=32
+
 |     | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :-: | :----: | :-----: | :-------: | :------: | :----: |
 | 02/05 - 02/09 | _First day of classes_ | | | | Phase 1 released |

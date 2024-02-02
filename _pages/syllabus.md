@@ -6,18 +6,10 @@ nav_order: 10
 
 <h1> Welcome to Computer Language Engineering (6.110) </h1>
 
-
 {: .warning }
 ⚠️ This website is still under active development. If you are taking the class, please note that the information currently on this website may not be completely accurate while this notice is up. ⚠️
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+{% include toc.html %}
 
 ## Basic Information
 

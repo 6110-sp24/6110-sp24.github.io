@@ -3,6 +3,8 @@ title: Schedule
 nav_order: 20
 ---
 
+{% include toc.html %}
+
 ## Calendar
 
 The following calendar only displays important dates.

@@ -42,7 +42,7 @@ A *parser* takes a sequence of tokens as input and checks to make sure they conf
 
 The [*Decaf Specification*]({% link _pages/project/decaf-spec.md %}) is the grammar of the language, which you will need to separate into a scanner specification and a parser specification. You will then implement the scanner and parser, either from scratch in the programming language of your choice, or by using a scanner generator (such as `lex`, `flex`, `jflex`, `antlr`) and parser generator (such as `yacc`, `bison`, `cup`, `antlr`) of your choice.
 
-There will be a short report that will help us understand the approach (i.e. hand-written, parser generator, programming language choice) you decided to take.
+There will be a *short* report that will help us understand the approach (i.e. hand-written, parser generator, programming language choice) you decided to take.
 
 ### Phase 2: Intermediate Representation (IR) and Semantic Checking
 
@@ -108,6 +108,8 @@ We will release public tests associated with each phase, which will be released 
 
 Your project design document will make up a portion of your grade for each phase. Please make sure not to neglect turning it in.
 
+---
+
 ## Command Line Reference
 
 Your compiler should have the following command line interface.
@@ -130,6 +132,8 @@ The default behavior is to compile as far as the current phase of the project an
 By default, no optimizations are performed. The list of optimization names will be provided in the optimization phases.
 
 For each provided language skeleton, we have provided code which is sufficient to implement this interface. It also returns a list of arguments it did not understand which can be used to add features. The TAs will not use any extra features you add for grading. However, you can tell us which, if any, to use for the compiler derby. You may wish to provide a flag which turns on only the optimizations you like.
+
+---
 
 ## Project Design Document
 

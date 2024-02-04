@@ -123,12 +123,10 @@ You may collaborate on weekly miniquizzes, but you should write all your solutio
 
 ### LLM policy
 
-You can use LLM generated code in your project. Your use of LLM generated code will have no effect, either positive or negative, on your grade. To cite one extreme example, if you type "Can you please generate a compiler for the MIT Decaf programming language" into the prompt box of an LLM and get a full compiler back (we have tried this and it does not seem to work), you will get full credit if the compiler satisfies the course requirements.
+We encourage you to try to use LLM-generated code in your project. Your use of LLM generated code will have no effect, either positive or negative, on your grade. To cite one extreme example, if you type "Can you please generate a compiler for the MIT Decaf programming language" into the prompt box of an LLM and get a full compiler back (we have tried this and it does not seem to work), you will get full credit if the compiler satisfies the course requirements.
 
-If you decide to use LLM generated code, you must abide by the following policies:
-- You _must_ disclose your usage of LLMs and explain your general approach to using LLMs in your project report.
-- You _must_ submit an LLM code usage survey, which includes documenting all the prompts you used and responses you received, due two days after each project phase deadline. This survey will be made available on Gradescope.
-
+If you decide to use LLM-generated code, you should explain your general approach to using LLMs in your project report.
+We also ask that all teams document their use of LLM generated code via a LLM code usage survey turned in two days after each project phase deadline. This survey will be made available on Gradescope.
 One easy way to record your interactions with LLMs is, for example, the "Share link to Chat" feature that ChatGPT provides.
 
 [bldg]: http://whereis.mit.edu/map-jpg?mapterms=32

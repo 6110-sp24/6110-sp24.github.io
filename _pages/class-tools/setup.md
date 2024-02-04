@@ -14,7 +14,8 @@ Since you'll be doing a lot of coding in your chosen environment, it's worth inv
 
 A note: when developing across multiple environments, it is very easy to lose your code (including overwriting local git history). **Push your code early and often.** Take advantage of git branches to develop code without breaking your partners' builds.
 
-You may wish to install the same version of your programming language and build system as the testing server. Details are provided in TODO.
+You may wish to install the same version of your programming language and build system as the testing server. Details about the testing server will be provided shortly.
+<!-- TODO: add information about testing server. -->
 
 ## ARM Environments
 

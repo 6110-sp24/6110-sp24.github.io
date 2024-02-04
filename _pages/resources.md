@@ -84,7 +84,7 @@ Other compiler textbooks you may be interested in:
 
 Many of those textbooks are [available online through MIT Libraries][mitlib]. (For some books, you can borrow physical copies!) You can purchase those textbooks through traditional means (e.g. Amazon) or ask the TAs for advices on acquiring the textbooks.
 
-## Other sources of inspirations
+## Other sources of inspiration
 
 1. Overviews
     1. [LLVM compiler architecture](http://www.aosabook.org/en/llvm.html)

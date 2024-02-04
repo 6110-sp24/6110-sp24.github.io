@@ -60,19 +60,17 @@ We want you to succeed in this course. You should be aware of the following comp
 The main component of this course (75% of the grade) is a project where you will build a compiler almost entirely from scratch. The [first phase][phase_1] (lexing and parsing) of the project will be done individually, and the rest of the project will be done in groups of 3-4.
 Details about the project can be found on the [Project Overview][project] page. Specific instructions for each phase of the project will be released later in the class.
 
-### Lectures
+### Class meetings
 
-Nominally, the lectures are one hour long and take place at [32-124][bldg] at the following times:
+Nominally, class meetings are one hour long and take place at [32-124][bldg] at the following times:
 
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
-- At 12 p.m. (noon) on Tuesdays and Thursdays. (While these are listed officially as "recitations," we treat them the same as lectures.)
+- At 12 p.m. (noon) on Tuesdays and Thursdays.
+
+_Lectures_, which will cover the fundamental concepts and structures of compilers, will be held on Mondays through Thursdays, and _recitations_, which will focus more on the project, will be held on Fridays. (Please disregard the official listing of "lectures" versus "recitations".)
 
  __Please check the [schedule][schedule] regularly.__ Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects.
  There will be weeks that have few or no lectures, especially as we draw closer to project deadlines. (Last year, there were around 7 weeks of lectures in total.) We will also announce urgent changes on [Piazza][piazza].
-
-#### Re-lectures
-
-If you are unable to attend a lecture, please send a request for a re-lecture to <6.110-staff@mit.edu>. The course staff plans to give one re-lecture per one week of lecture.
 
 ### Mini-Quizzes and Weekly Check-ins
 

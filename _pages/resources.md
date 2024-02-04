@@ -3,18 +3,18 @@ title: Resources
 nav_order: 40
 ---
 
-This section contains a number of useful and/or interesting references selected by the staff. You are not expected to know most of the material on this page for the class; however, you may find it interesting and helpful. We had a lot of fun curating this!
+This page contains a number of useful and/or interesting references selected by the staff. You are not expected to know most of the material on this page for the class; however, you may find it interesting and helpful. We had a lot of fun curating this!
 
 {% include toc.html %}
 
 ## References
 
-You will find those references useful in writing your compiler.
+You will find these references useful in writing your compiler.
 
 1. The complete [Intel x64 manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) --- official PDFs with all the gory details
 1. [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/) --- navigable reference by Félix Cloutier derived from the Intel manual
 1. [x86 wiki](https://en.wikibooks.org/wiki/X86_Assembly/X86_Instructions) --- good primer on how x86 instructions work
-1. [x64 cheat sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf) -- lists and tables detailing registers and assembly commands from Brown University's CS033
+1. [x64 cheat sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf) --- lists and tables detailing registers and assembly commands from Brown University's CS033
 
 If you find interesting resources you think other students could benefit from, please consider sharing them on Piazza!
 
@@ -25,7 +25,7 @@ You might find lecture slides/notes from other publicly available courses useful
 1. [Carnegie Mellon's 15-411 Compiler Design course](https://www.cs.cmu.edu/~janh/courses/411/23/schedule.html).
 1. [Harvard's CS153 Compilers class](https://groups.seas.harvard.edu/courses/cs153/2019fa/schedule.html).
 
-If you are hungry for more advanced contents, take a look at this:
+If you are hungry for more advanced material, take a look at this:
 
 {:style="counter-reset:step-counter 2"}
 1. [Cornell's self-guided, online Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/).
@@ -34,8 +34,8 @@ Of course, do not forget this class's cousin in the fall semester: [6.1120<sub>[
 
 For more theoretical approaches to programming language design, theory, and implementation, look into these classes:
 1. [6.S050 Programming Language Design (Spring 2023)][pld]
-2. [6.5110<sub>\[6.820\]</sub> Foundations of Program Analysis][6820]
-2. [6.5120<sub>\[6.822\]</sub> Formal Reasoning About Programs][frap]
+1. [6.5110<sub>\[6.820\]</sub> Foundations of Program Analysis][6820]
+1. [6.5120<sub>\[6.822\]</sub> Formal Reasoning About Programs][frap]
 
 ## Toolings
 
@@ -78,11 +78,11 @@ Other compiler textbooks you may be interested in:
 <!-- These textbooks are a lot more theoretical, and cover very specific topics:
 
 {:style="counter-reset:step-counter 5"}
-1. 
+1.
   - The mathematical foundations of data-flow analysis.
   - Matt Might wrote [a short summary of order theory][might-lattice] on his blog. -->
 
-Many of those textbooks are [available online through MIT Libraries][mitlib]. (For some books, you can borrow physical copies!) You can purchase those textbooks through traditional means (e.g. Amazon) or ask the TAs for advices on acquiring the textbooks.
+Many of these textbooks are [available online through MIT Libraries][mitlib]. (For some books, you can borrow physical copies!) You can purchase the textbooks through traditional means (e.g. Amazon) or ask the TAs for advice on acquiring the textbooks.
 
 ## Other sources of inspiration
 

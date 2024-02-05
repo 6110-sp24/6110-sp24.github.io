@@ -55,6 +55,7 @@ There is no required textbook for this class, but if you insist, we think this i
 
 1. **Cooper, Keith D., and Torczon, Linda, [_Engineering a Compiler_][cooper], 3rd ed., Morgan Kaufmann, 2022.**
   - A new reference textbook for understanding modern compilers. Covers many optimizations seen in this course (e.g. data-flow, instruction scheduling, register allocation) plus a few advanced ones found in modern compilers (e.g. [static single-assignment (SSA)][ssa]).
+  - The 3rd edition is more up to date, but the 2nd edition (2012) is [available online through MIT Libraries][cooper-mit]. In supplemental readings, we will list the pages for both editions.
 
 Other compiler textbooks you may be interested in:
 
@@ -73,7 +74,7 @@ Other compiler textbooks you may be interested in:
 1. **Steven Muchnick, [_Advanced Compiler Design and Implementation_][appel-java]. Morgan Kaufmann, 1997.**
   - The "whale book." A comprehensive coverage of advanced compiler optimizations.
 1. **Queinnec, C., and Callaway K., [_Lisp in Small Pieces_][lisp-book]. Cambridge University Press, 1996.**
-  - A very cool book that builds _multiple_ compilers from scratch to demonstrate how language design choices interact.
+  - A very cool book that builds _multiple_ interpreters from scratch to demonstrate how language design choices interact.
 
 <!-- These textbooks are a lot more theoretical, and cover very specific topics:
 
@@ -104,6 +105,7 @@ Many of these textbooks are [available online through MIT Libraries][mitlib]. (F
     2. Davey, B. A., and H. A. Priestley, [_Introduction to Lattices and Order_][lattice], 2nd ed. Cambridge University Press, 2002.
 
 [cooper]: https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0
+[cooper-mit]: https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935028392606761
 [appel-java]: https://www.cs.princeton.edu/~appel/modern/java/
 [ssa]: https://en.wikipedia.org/wiki/Static_single-assignment_form
 [lisp-book]: https://doi.org/10.1017/CBO9781139172974

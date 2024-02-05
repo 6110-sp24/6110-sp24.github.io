@@ -8,6 +8,8 @@ nav_order: 1
 
 You will need an x86-64 Unix environment to run the class tools and ensure that we can build your compiler on the grading server.
 
+Our officially supported programming languages are Java, Scala, Rust, and Typescript. If you are unsure which language to choose, you should default to Java.
+
 If you're not already on a Unix environment (e.g., Linux, MacOS, WSL, MinGW), you can [set up a virtual machine](vm.md). Alternatively, you can use [the Athena environment](https://ist.mit.edu/athena).[^1]
 
 Since you'll be doing a lot of coding in your chosen environment, it's worth investing effort into customizing it to be comfortable and productive for you. This might include installing your favorite text editor, tweaking your VM settings, or figuring out how to make your favorite IDE work with the class tools. A common solution is to develop on your local machine and run the compiler on the Unix environment (synchronyzing code with a [shared folder](https://docs.vmware.com/en/VMware-Workstation-Pro/17/com.vmware.ws.using.doc/GUID-D6D9A5FD-7F5F-4C95-AFAB-EDE9335F5562.html), `scp`, `rsync`, `sshfs`, or git).
@@ -24,7 +26,7 @@ If you have an ARM environment, you will likely not be able to install an x86-64
 It is your responsibility to ensure that your compiler is entirely compatible with the x86 grading environment -- you can test this on Athena. If you are having issues, please contact the TAs.
 
 ## Ubuntu
-Subsequent instructions assume that you're on a default Ubuntu installation. If you're completely new to Linux, read [Using the Ubuntu Terminal](cmd.md). You will need to use the terminal at least to run the test scripts.
+Subsequent instructions assume that you're on a default Ubuntu installation. If you're completely new to Linux, take some time familarize yourself with it. You will need to use the terminal at least to run the test scripts.
 
 We will be using Git to distribute test scripts and handle code submission. You should also use Git to collaborate with your teammates. If you're not familiar with basic Git usage like resolving merge conflicts, read [Using Git](git.md). That also includes instructions for setting up Git.
 

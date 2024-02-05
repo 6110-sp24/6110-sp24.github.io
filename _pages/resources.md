@@ -39,7 +39,7 @@ For more theoretical approaches to programming language design, theory, and impl
 
 ## Toolings
 
-Although, we would like to focus on ideas, not specific tools, it is important for you to gain fluency in whatever it is that you choose to use. Minutes spent familiarizing yourself with common tools and frameworks will save you hours or days in the long run.
+Although we would like to focus on ideas, not specific tools, it is important for you to gain fluency in whatever it is that you choose to use. Minutes spent familiarizing yourself with common tools and frameworks will save you hours or days in the long run.
 
 1. Shell
     1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/) --- Learn about the shell and the terminal, then you look like a pro.

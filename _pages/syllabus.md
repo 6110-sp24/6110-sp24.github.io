@@ -4,10 +4,14 @@ layout: home
 nav_order: 10
 ---
 
-<h1> Welcome to Computer Language Engineering (6.110) </h1>
+<h1> Computer Language Engineering (6.110) </h1>
 
-{: .warning }
-⚠️ This website is still under active development. If you are taking the class, please note that the information currently on this website may not be completely accurate while this notice is up. ⚠️
+{: .announcement }
+> Welcome to Computer Language Engineering!
+> - Please take time to familiarize yourself with the syllabus, and please make sure you can access the class [Piazza][piazza] and [Gradescope][gradescope].
+> - The [first weekly check-in form](https://www.gradescope.com/courses/727449/assignments/4033643) (which is a short survey) is now available on Gradescope. Please make sure to fill out the survey by __Thursday, February 8__ so that we can give you access to the class [GitHub organization][github].
+> - The first phase of the project (lexing and parsing) will be released on __Friday, February 9__.
+> - Make sure to check the [class schedule][schedule] regularly, as lecture dates are subject to change.
 
 {% include toc.html %}
 
@@ -43,7 +47,7 @@ Please contact the course staff by posting on [Piazza][piazza] or emailing <6.11
   - Office hours details will be announced on [Piazza][piazza].
   - Since lecture dates are not all finalized at the start of the semester, please check the [schedule][schedule] regularly.
 - For all general questions and/or concerns, please post publicly on [Piazza][piazza]. If the matter is private, please post privately on [Piazza][piazza] or email the course staff at <6.110-staff@mit.edu>.
-- Miniquizzes and status reports need to be completed via [Gradescope][gradescope]. The join code is __<u>2P4YY5</u>__.
+- Miniquizzes and weekly check-ins need to be completed via [Gradescope][gradescope]. The join code is __<u>2P4YY5</u>__.
 
 ### Recommended Texts
 
@@ -127,12 +131,13 @@ If you decide to use LLM-generated code, you should explain your general approac
 We also ask that all teams document their use of LLM generated code via a LLM code usage survey turned in two days after each project phase deadline. This survey will be made available on Gradescope.
 One easy way to record your interactions with LLMs is, for example, the "Share link to Chat" feature that ChatGPT provides.
 
+[004]: https://student.mit.edu/catalog/m6a.html#6.1910
+[031]: https://student.mit.edu/catalog/m6a.html#6.1020
 [bldg]: http://whereis.mit.edu/map-jpg?mapterms=32
 [catalog]: https://student.mit.edu/catalog/m6a.html#6.1100
-[031]: https://student.mit.edu/catalog/m6a.html#6.1020
-[004]: https://student.mit.edu/catalog/m6a.html#6.1910
+[github]: https://github.com/6110-sp24/
 [gradescope]: https://www.gradescope.com/courses/727449
-[piazza]: https://piazza.com/class/ls0no6nhtr817n
+[piazza]: https://piazza.com/mit/spring2024/6110/home
 [s3]: https://studentlife.mit.edu/s3
 [phase_1]: {% link _pages/project/phase_1.md %}
 [resources]: {% link _pages/resources.md %}

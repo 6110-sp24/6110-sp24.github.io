@@ -76,6 +76,10 @@ _Lectures_, which will cover the fundamental concepts and structures of compiler
  __Please check the [schedule][schedule] regularly.__ Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects.
  There will be weeks that have few or no lectures, especially as we draw closer to project deadlines. (Last year, there were around 7 weeks of lectures in total.) We will also announce urgent changes on [Piazza][piazza].
 
+#### Re-lectures
+
+If you are unable to attend a lecture, we plan to offer weekly _re-lectures_, which will cover material from the past week's lecture. If you plan to regularly attend re-lectures, please indicate your availability in the [first weekly check-in form](https://www.gradescope.com/courses/727449/assignments/4033643). More information about re-lectures will be posted later.
+
 ### Mini-Quizzes and Weekly Check-ins
 
 In an effort to ensure your project stays on track, your team should submit a short weekly check-in on [Gradescope][gradescope].

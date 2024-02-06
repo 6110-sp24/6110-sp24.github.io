@@ -5,9 +5,14 @@ nav_order: 60
 
 ## Lectures
 
+Supplemental readings are listed under each lecture. You may find them useful. You are not responsible for the contents not covered in lecture.
+
 1. 02/05 --- [Introduction][l01] ([6 slides/page][l01-6])
     - _Cooper et al_., Ch. 1 "Overview of Compilation", p.p. 1-23 (2nd ed.), pp. 1-26 (3rd ed.).
 2. 02/06 --- [Specifying Languages with Regular Expressions and Context-Free Grammars][l02] ([6 slides/page][l02-6])
+    - 02/06 covers slides 1 through 45.
+    - _Cooper et al_., Ch. 2 "Scanners", p.p. 25-82 (2nd ed.), pp. 27-84 (3rd ed.).
+    - _Cooper et al_., Ch. 3 "Parsers", §3.1-3.3, p.p. 83-116 (2nd ed.), pp. 85-118 (3rd ed.).
 
 [l01]: assets/documents/lectures/L01-Introduction.pdf 
 [l01-6]: assets/documents/lectures/L01-Introduction-6pages.pdf 

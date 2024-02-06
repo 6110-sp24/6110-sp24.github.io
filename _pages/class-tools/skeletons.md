@@ -97,16 +97,31 @@ The program entry point is located in `src/main.rs`. `src/utils/cli.rs` implemen
 ├── src/
 │   ├── utils/
 │   │   └── cli.rs
-|   |   └── mod.rs
 │   └── main.rs
 ├── build.sh
 ├── run.sh
+├── test.sh
 └── Cargo.toml
 ```
+
+This skeleton uses Cargo for builds. An example of a test is provided in `test.sh`
 
 ## Typescript
 
 **TODO: Krit**
+
+```
+.
+├── src/
+│   ├── utils/
+│   │   └── cli.ts
+│   └── main.ts
+├── test/
+│   └── exampleTest.ts
+├── build.sh
+├── run.sh
+└── package.json
+```
 
 
 # Running your compiler

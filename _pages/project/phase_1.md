@@ -12,7 +12,7 @@ Due dates are posted on the [Class Schedule]({% link _pages/project.md %}).
 
 1. Read the [project specification]({% link _pages/project.md %}).
 2. Follow [these instructions]({% link _pages/class-tools/setup.md %}) to set up a programming environment.
-3. Follow [TODO](../materials/handouts/class-tools.md) to set up and understand the class tools.
+3. Follow [these instructions]({% link _pages/class-tools/skeletons.md %}) to set up and understand the project skeletons.
 4. Read the [Decaf spec]({% link _pages/project/decaf-spec.md %}). Phase 1 will only reference the first two sections, but we suggest reading the entire specification before starting.
 
 You will need to refer to the [Decaf spec]({%link _pages/project/decaf-spec.md%}) when implementing the scanner and parser. Note that grammar in the Decaf spec does not specify what goes into the scanner and what goes into the parser; you will have to determine this split yourself.

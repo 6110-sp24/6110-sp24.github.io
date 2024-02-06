@@ -8,7 +8,7 @@ nav_order: 10
 
 {: .announcement }
 > Welcome to Computer Language Engineering!
-> - Please take time to familiarize yourself with the syllabus, and please make sure you can access the class [Piazza][piazza] and [Gradescope][gradescope].
+> - Please take time to familiarize yourself with the syllabus, and please make sure you can access the class [Piazza][piazza] and [Gradescope][gradescope]. The Gradescope entry code is __<u>2P4YY5</u>__.
 > - The [first weekly check-in form](https://www.gradescope.com/courses/727449/assignments/4033643) (which is a short survey) is now available on Gradescope. Please make sure to fill out the survey by __Thursday, February 8__ so that we can give you access to the class [GitHub organization][github].
 > - The first phase of the project (lexing and parsing) will be released on __Friday, February 9__.
 > - Make sure to check the [class schedule][schedule] regularly, as lecture dates are subject to change.

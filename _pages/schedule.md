@@ -3,13 +3,25 @@ title: Schedule
 nav_order: 20
 ---
 
+{% include toc.html %}
+
 ## Calendar
 
-The following calendar only displays important dates.
+<details open markdown="block">
+<summary>Google Calendar</summary>
+{: .text-delta }
+<center>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%2333B679&ctz=America%2FNew_York&src=NWY0MjhkNmM1Y2JhZTEzMTgwZTRjODRhYTRhZTU2NTJkYmYwZTE5NGYxZTYyZmUyOGI1MGE0YjQ2MzEyNDJjYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+</center>
+</details>
 
-Nominally, there is a lecture every day. The lectures are one hour long and take place at [32-124][bldg] at the following times:
+
+{% comment %}
+The following table only displays important dates. Assume there is a lecture every non-holiday weekday unless otherwise explicitly noted.
+
+The lectures are one hour long and take place at [32-124][bldg] at the following times:
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
-- At 12 p.m. (noon) on Tuesdays and Thursdays.
+- At 12 p.m. (noon) on Tuesdays and Thursdays. (While these are listed officially as "recitations," we treat them the same as lectures.)
 
 [bldg]: http://whereis.mit.edu/map-jpg?mapterms=32
 
@@ -30,6 +42,7 @@ Nominally, there is a lecture every day. The lectures are one hour long and take
 | 04/29 - 05/03 | | | | | **Quiz 2** |
 | 05/06 - 05/10 | | | | | |
 | 05/13 - 05/17 | **Phase 5 due** | _Last day of classes_ | | | |
+{% endcomment %}
 
 ## List of topics
 

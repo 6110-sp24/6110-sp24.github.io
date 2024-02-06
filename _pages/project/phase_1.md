@@ -11,7 +11,7 @@ Due dates are posted on the [Class Schedule]({% link _pages/project.md %}).
 ## Getting Started
 
 1. Read the [project specification]({% link _pages/project.md %}).
-2. Follow [TODO](../materials/handouts/setup.md) to set up a programming environment.
+2. Follow [these instructions]({% link _pages/class-tools/setup.md %}) to set up a programming environment.
 3. Follow [TODO](../materials/handouts/class-tools.md) to set up and understand the class tools.
 4. Read the [Decaf spec]({% link _pages/project/decaf-spec.md %}). Phase 1 will only reference the first two sections, but we suggest reading the entire specification before starting.
 
@@ -97,7 +97,7 @@ git switch main
 
 This pulls the commits from `main` into `phase1-submission`, pushes them to Github, then returns back to the `main` branch. You can resubmit as many times as you like.
 
-Even though this phase isn't officially graded, please submit your work by the deadline to ensure that your setup is compatible with the grading server's. We will communicate to you the number of tests passed on the grading server.
+Please submit your work by the deadline to ensure that your setup is compatible with the grading server's. We will communicate to you the number of tests passed on the grading server.
 
 Note that we will read your code and may, for example, give a lower grade (than dictated by the number of tests passed) for bad-faith projects (e.g. writing code specific to particular tests in the test suites).
 

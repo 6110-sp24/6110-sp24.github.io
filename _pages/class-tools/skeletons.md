@@ -91,7 +91,7 @@ We have declared ScalaTest as a test dependency for unit testing. Two examples o
 
 ## Rust
 
-The program entry point is located in `src/main.rs`. `src/utils/cli.rs` implements the command-line interface described in the Compiler Project Overview; you can modify it to add new command-line flags as needed. 
+The program entry point is located in `src/main.rs`. `src/utils/cli.rs` implements the command-line interface described in the Compiler Project Overview; you can modify it to add new command-line flags as needed.
 ```
 .
 ├── src/
@@ -104,11 +104,11 @@ The program entry point is located in `src/main.rs`. `src/utils/cli.rs` implemen
 └── Cargo.toml
 ```
 
-This skeleton uses Cargo for builds. An example of a test is provided in `test.sh`
+The Rust skeleton uses Cargo for builds. An example of a test is provided in `test.sh`
 
 ## Typescript
 
-**TODO: Krit**
+The program entry point is located in `src/main.ts`. `src/utils/cli.ts` implements the command-line interface described in the Compiler Project Overview; you can modify it to add new command-line flags as needed.
 
 ```
 .
@@ -123,6 +123,7 @@ This skeleton uses Cargo for builds. An example of a test is provided in `test.s
 └── package.json
 ```
 
+The Typescript skeleton uses Node for builds, and Mocha for unit tests. An example test file is given in `test/exampleTest.ts`.
 
 # Running your compiler
 

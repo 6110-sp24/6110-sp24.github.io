@@ -65,22 +65,26 @@ When `-t parse` is specified, any syntactically incorrect program should be flag
 
 
 
-## Phase evaluation
+## Evaluation
 
-This phase will be worth 5%. Each student will be required to write and evaluate their own scanner and parser. There are several reasons for this shape of the project:
+This phase is worth 5% of the overall grade in this class. Each student will be required to write and evaluate their own scanner and parser. There are several reasons for this shape of the project:
 
 - Writing (and debugging!) a front-end for a non-trivial language is a useful skill. Think about being able to quickly prototype a domain specific language in a few hours once you master the parsing techniques and tools.
 - The following projects in this class will require a front-end for the Decaf language.  Typically, this front-end will be constructed by combining the parsers written by the individual students.
 - Your parser serves as an advertisement to the potential group mates. It gives a good indicator for how much your group can expect from you in the follow-up projects.
 
-Your grade will be based on the following:
+Your grade in this phase (5% total) is allocated as follows:
 
-- A *short* (~1-2 paragraphs) report on your chosen implementation approach (parser and scanner)
-- The public and private tests of your scanner and parser
+- The public and private tests of your scanner and parser: 4% (2% for scanner, 2% for parser)
+- A *short* (~1-2 paragraphs) report on your chosen implementation approach: 1%
+- LLM usage questionnaire: 0%
+
+The public test cases are available at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests).
 
 To catalyze the group formation process, we will make all students' repositories visible to all other students in the class on the due date. This will also be an opportunity for the students to assess the similarities and differences in their approaches and how to combine the scanners/parsers together.
 
 However, copying code between the projects is strictly forbidden. While the students are allowed to inspect and discuss other students' solutions, copying code will be considered cheating. We will be strict in enforcing this policy!
+
 
 ## Submission
 
@@ -114,13 +118,6 @@ Please submit your report in the [Phase 1 Report assignment](https://www.gradesc
 
 There will be a short questionnaire (multiple-choice) regarding your usage of LLMs, to be released on Gradescope. You should submit this questionnaire even if you did not use LLMs for this phase.
 
-## Grading
-
-This assignment is worth 5% of your overall grade in this class, divided as follows:
-- Scanner autograded test cases: 2%
-- Parser autograded test cases: 2%
-- Report: 1%
-- LLM Usage Questionnaire: 0%
 
 ## Appendix: Why we defer integer range checking until the next project
 

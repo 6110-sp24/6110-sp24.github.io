@@ -47,7 +47,7 @@ just_the_docs:
 callouts:
   warning:
     title: Warning
-    color: yellow
+    color: red
   note:
     title: Note
     color: yellow

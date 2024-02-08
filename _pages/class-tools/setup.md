@@ -16,8 +16,8 @@ Since you'll be doing a lot of coding in your chosen environment, it's worth inv
 
 A note: when developing across multiple environments, it is very easy to lose your code (including overwriting local git history). **Push your code early and often.** Take advantage of git branches to develop code without breaking your partners' builds.
 
-You may wish to install the same version of your programming language and build system as the testing server. Details about the testing server will be provided shortly.
-<!-- TODO: add information about testing server. -->
+You may wish to install the same version of your programming language and build system as the grading server. Details about the grading server are available on the [Autograder][autograder] page.
+
 
 ## ARM Environments
 
@@ -77,3 +77,5 @@ popd
 ```
 
 [^1]: While the class was traditionally run on Athena, we recommend against using Athena this semester. The dialup can be slow and isn't suited for computationally intensive work like optimizing programs.
+
+[autograder]: {% link _pages/class-tools/autograder.md %}

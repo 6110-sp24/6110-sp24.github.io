@@ -91,7 +91,7 @@ Please submit your Phase 1 code on Gradescope via GitHub, following the steps be
 1. Push your code to your phase 1 GitHub repository (`6110-sp24/<YOUR KERB>-phase1`). We suggest making a separate branch for the submission, say, `phase1-submission`.
 2. Go to the [Phase 1 assignment](https://www.gradescope.com/courses/727449/assignments/4071369) on Gradescope, and select your GitHub repository and branch.
 
-We have set up an autograder for the Gradescope assignment, and you should be able to see the number of test cases you passed when the autograder finishes running. Note that the autograder is slow, and might take up to 40 minutes to run.
+We have set up an autograder for the Gradescope assignment, and you should be able to see the number of test cases you passed when the autograder finishes running. Note that the autograder is slow, and might take up to 40 minutes to run. Please see the [Autograder][autograder] page for more information about the installed software on the autograder.
 
 **We suggest making an early submission once you finish setting up your build system just to check that the autograder can correctly build your compiler.**
 You can resubmit your assignment as many times as you want before the due date, but please do not do this excessively.
@@ -102,6 +102,9 @@ We reserve the right to review your code on GitHub and may, for example, give a 
 
 {: .note }
 This is our first year running this class with autograding on Gradescope, so there might be some unforeseen issues. Please let the course staff know on Piazza if you run into any issues with the infrastructure.
+
+{: .warning }
+Make sure the `./build.sh` and `./run.sh` scripts are located at the **root** of your repository, otherwise the autograder will fail.
 
 ### Report
 
@@ -158,3 +161,4 @@ Therefore, rather than do some checking earlier and some later, we have decided 
 When printing out the token table from your scanner, do not print the value of an `INTLITERAL` token in decimal. Print it exactly as it appears in the source program, whether decimal or hex.
 
 [s3]: https://studentlife.mit.edu/s3
+[autograder]: {% link _pages/class-tools/autograder.md %}

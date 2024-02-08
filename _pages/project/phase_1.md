@@ -8,7 +8,7 @@ This phase consists of two segments: lexical analysis (scanning, aka lexing) and
 
 {: .announcement }
 > There are three things you need to submit for this phase:
-> 1. Your scanner and parse code, due at **11:59 PM on Friday, February 23**.
+> 1. Your scanner and parser code, due at **11:59 PM on Friday, February 23**.
 > 2. A short report, due at **11:59 PM on Friday, February 23**.
 > 3. A short LLM usage questionnaire, due at **11:59 PM on Monday, February 26**.
 

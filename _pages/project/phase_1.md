@@ -6,7 +6,15 @@ nav_order: 2
 
 This phase consists of two segments: lexical analysis (scanning, aka lexing) and syntactic analysis (parsing).
 
-Due dates are posted on the [Class Schedule]({% link _pages/project.md %}).
+{: .announcement }
+> There are three things you need to submit for this phase:
+> 1. Your scanner and parse code, due at **11:59 PM on Friday, February 23**.
+> 2. A short report, due at **11:59 PM on Friday, February 23**.
+> 3. A short LLM usage questionnaire, due at **11:59 PM on Monday, February 26**.
+
+These due dates are also posted on the [Class Schedule]({% link _pages/project.md %}).
+
+{% include toc.html %}
 
 ## Getting Started
 
@@ -17,7 +25,7 @@ Due dates are posted on the [Class Schedule]({% link _pages/project.md %}).
 
 You will need to refer to the [Decaf spec]({%link _pages/project/decaf-spec.md%}) when implementing the scanner and parser. Note that grammar in the Decaf spec does not specify what goes into the scanner and what goes into the parser; you will have to determine this split yourself.
 
-You are welcome to use scanner/parser generators, or to write this code by hand. 
+You are welcome to use scanner/parser generators, or to write this code by hand.
 
 
 
@@ -74,34 +82,42 @@ To catalyze the group formation process, we will make all students' repositories
 
 However, copying code between the projects is strictly forbidden. While the students are allowed to inspect and discuss other students' solutions, copying code will be considered cheating. We will be strict in enforcing this policy!
 
-
-
 ## Submission
 
-To submit this phase, commit all work and run the following commands:
+### Code
 
-```
-git checkout -b phase1-submission
-git push origin phase1-submission
-git switch main
-```
+Please submit your Phase 1 code on Gradescope via GitHub, following the steps below:
 
-This creates a new branch called `phase1-submission`, pushes it to Github, then returns back to the `main` branch. You can resubmit using the following commands:
+1. Push your code to your phase 1 GitHub repository (`6110-sp24/<YOUR KERB>-phase1`). We suggest making a separate branch for the submission, say, `phase1-submission`.
+2. Go to the [Phase 1 assignment](https://www.gradescope.com/courses/727449/assignments/4071369) on Gradescope, and select your GitHub repository and branch.
 
-```
-git switch phase1-submission
-git rebase main
-git push origin phase1-submission
-git switch main
-```
+We have set up an autograder for the Gradescope assignment, and you should be able to see the number of test cases you passed when the autograder finishes running. Note that the autograder is slow, and might take up to 40 minutes to run.
 
-This pulls the commits from `main` into `phase1-submission`, pushes them to Github, then returns back to the `main` branch. You can resubmit as many times as you like.
+**We suggest making an early submission once you finish setting up your build system just to check that the autograder can correctly build your compiler.**
+You can resubmit your assignment as many times as you want before the due date, but please do not do this excessively.
 
-Please submit your work by the deadline to ensure that your setup is compatible with the grading server's. We will communicate to you the number of tests passed on the grading server.
+Per course policy, you should make sure to submit your code on time. For extensions under extenuating circumstances (e.g., a member of your team is sick, family emergencies), we require a letter from one of the student deans at [Student Support Services (S<sup>3</sup>)][s3].
 
-Note that we will read your code and may, for example, give a lower grade (than dictated by the number of tests passed) for bad-faith projects (e.g. writing code specific to particular tests in the test suites).
+We reserve the right to review your code on GitHub and may, for example, give a lower grade (than dictated by the number of tests passed) for bad-faith projects (e.g. writing code specific to particular tests in the test suites).
 
+{: .note }
+This is our first year running this class with autograding on Gradescope, so there might be some unforeseen issues. Please let the course staff know on Piazza if you run into any issues with the infrastructure.
 
+### Report
+
+Please submit your report in the [Phase 1 Report assignment](https://www.gradescope.com/courses/727449/assignments/4071930) on Gradescope. The report should chosen implementation approach (parser and scanner)
+
+### LLM Usage Questionnaire
+
+There will be a short questionnaire (multiple-choice) regarding your usage of LLMs, to be released on Gradescope. You should submit this questionnaire even if you did not use LLMs for this phase.
+
+## Grading
+
+This assignment is worth 5% of your overall grade in this class, divided as follows:
+- Scanner autograded test cases: 2%
+- Parser autograded test cases: 2%
+- Report: 1%
+- LLM Usage Questionnaire: 0%
 
 ## Appendix: Why we defer integer range checking until the next project
 
@@ -140,3 +156,5 @@ Of course, if the integer token was clearly out of range (e.g. 99999999999999999
 Therefore, rather than do some checking earlier and some later, we have decided that ALL integer range checking must be deferred until the semantic phase. So, your scanner/parser must not try to interpret the strings of decimal or hex digits in an integer token; the token must simply retain the string until the semantic phase.
 
 When printing out the token table from your scanner, do not print the value of an `INTLITERAL` token in decimal. Print it exactly as it appears in the source program, whether decimal or hex.
+
+[s3]: https://studentlife.mit.edu/s3

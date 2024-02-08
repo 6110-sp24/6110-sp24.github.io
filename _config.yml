@@ -48,6 +48,9 @@ callouts:
   warning:
     title: Warning
     color: yellow
+  note:
+    title: Note
+    color: yellow
   announcement:
     title: Announcement
     color: blue

@@ -29,7 +29,7 @@ The autograder is running Ubuntu 22.04, with the following software:
 
 Please make sure your submission is compatible with these versions, and that all other dependencies are self-contained in the project. If you are planning to use a different language, or need a dependency not listed where which is not feasible to package with your project, please contact the course staff.
 
-The grading server will network access when running tests, so you can download and install packages while running `./build.sh`. However, please do this responsibly, and try to avoid using network access in `./run.sh`.
+The grading server will have network access when running tests, so you can download and install packages while running `./build.sh`. However, please do this responsibly, and try to avoid using network access in `./run.sh`.
 
 ## Hardware configuration
 

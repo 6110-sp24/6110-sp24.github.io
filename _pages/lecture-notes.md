@@ -15,8 +15,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 3. 02/08 --- [Top-down parsing][l03] ([6 slides/page][l03-6])
     - _Cooper et al_., Ch. 3 "Parsers", § 3.3, p.p. 96-116 (2nd ed.), p.p. 99-118 (3rd ed.).
 
-[l01]: assets/documents/lectures/L01-Introduction.pdf 
-[l01-6]: assets/documents/lectures/L01-Introduction-6pages.pdf 
+[l01]: assets/documents/lectures/L01-Introduction.pdf
+[l01-6]: assets/documents/lectures/L01-Introduction-6pages.pdf
 [l02]: assets/documents/lectures/L02-RegularExpressionsAndGrammars.pdf
 [l02-6]: assets/documents/lectures/L02-RegularExpressionsAndGrammars-6pages.pdf
 [l03]: assets/documents/lectures/L03-TopDownParsing.pdf
@@ -27,4 +27,4 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 ## Recitations
 
 1. 02/05 --- [Course information](assets/documents/recitations/course-information.pdf)
-2. 02/09 --- [Project overview/Phase 1](assets/documents/r01-project-overview-phase1.pdf)
+2. 02/09 --- [Project overview/Phase 1](assets/documents/recitations/r01-project-overview-phase1.pdf)

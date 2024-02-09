@@ -13,6 +13,7 @@ This phase consists of two segments: lexical analysis (scanning, aka lexing) and
 > 3. A short LLM usage questionnaire, due at **11:59 PM on Monday, February 26**.
 
 These due dates are also posted on the [Class Schedule]({% link _pages/project.md %}).
+Also see [Recitation 1 slides](assets/documents/recitations/r01-project-overview-phase1.pdf) for some advice regarding this phase.
 
 {% include toc.html %}
 

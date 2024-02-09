@@ -8,9 +8,8 @@ nav_order: 10
 
 {: .announcement }
 > Welcome to Computer Language Engineering!
-> - Please take time to familiarize yourself with the syllabus, and please make sure you can access the class [Piazza][piazza] and [Gradescope][gradescope]. The Gradescope entry code is __<u>2P4YY5</u>__.
-> - The [first weekly check-in form](https://www.gradescope.com/courses/727449/assignments/4033643) (which is a short survey) is now available on Gradescope. Please make sure to fill out the survey by __Thursday, February 8__ so that we can give you access to the class [GitHub organization][github].
-> - The first phase of the project (lexing and parsing) will be released on __Friday, February 9__.
+> - [Phase 1][phase_1] of the project (lexing and parsing) has been released. The submission deadline is __Friday, February 23__.
+> - Mini-quiz 1 and Weekly Check-in 2 are now up on Gradescope, due __Thursday, February 15__.
 > - Make sure to check the [class schedule][schedule] regularly, as lecture dates are subject to change.
 
 {% include toc.html %}
@@ -102,7 +101,7 @@ To be announced on [Piazza][piazza].
 
 | Component                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| Project phase 1 (lexing and parsing)                         | 5%     |
+| [Project phase 1][phase_1] (lexing and parsing)              | 5%     |
 | Project phase 2 (IR and semantic checking)                   | 5%     |
 | Project phase 3 (code generation)                            | 15%    |
 | Project phase 4 (dataflow optimization)                      | 10%    |

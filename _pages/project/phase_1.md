@@ -67,11 +67,11 @@ When `-t parse` is specified, any syntactically incorrect program should be flag
 
 ## Evaluation
 
-This phase is worth 5% of the overall grade in this class. Each student will be required to write and evaluate their own scanner and parser. There are several reasons for this shape of the project:
+This phase is worth 5% of the overall grade in this class. Each student will be required to write and evaluate their own scanner and parser. There are several reasons for this shape of the phase:
 
 - Writing (and debugging!) a front-end for a non-trivial language is a useful skill. Think about being able to quickly prototype a domain specific language in a few hours once you master the parsing techniques and tools.
-- The following projects in this class will require a front-end for the Decaf language.  Typically, this front-end will be constructed by combining the parsers written by the individual students.
-- Your parser serves as an advertisement to the potential group mates. It gives a good indicator for how much your group can expect from you in the follow-up projects.
+- The following phases in this class will require a front-end for the Decaf language.  Typically, this front-end will be constructed by combining the parsers written by the individual students.
+- Your parser serves as an advertisement to the potential group mates. It gives a good indicator for how much your group can expect from you in the follow-up phases.
 
 Your grade in this phase (5% total) is allocated as follows:
 
@@ -83,7 +83,7 @@ The public test cases are available at the [`6110-sp24/public-tests` repository]
 
 To catalyze the group formation process, we will make all students' repositories visible to all other students in the class on the due date. This will also be an opportunity for the students to assess the similarities and differences in their approaches and how to combine the scanners/parsers together.
 
-However, copying code between the projects is strictly forbidden. While the students are allowed to inspect and discuss other students' solutions, copying code will be considered cheating. We will be strict in enforcing this policy!
+However, copying code outside of your team is strictly forbidden. While the students are allowed to inspect and discuss other students' solutions, copying code will be considered cheating. We will be strict in enforcing this policy!
 
 
 ## Submission
@@ -102,7 +102,7 @@ You can resubmit your assignment as many times as you want before the due date, 
 
 Per course policy, you should make sure to submit your code on time. For extensions under extenuating circumstances (e.g., a member of your team is sick, family emergencies), we require a letter from one of the student deans at [Student Support Services (S<sup>3</sup>)][s3].
 
-We reserve the right to review your code on GitHub and may, for example, give a lower grade (than dictated by the number of tests passed) for bad-faith projects (e.g. writing code specific to particular tests in the test suites).
+We reserve the right to review your code on GitHub and may, for example, give a lower grade (than dictated by the number of tests passed) for bad-faith code (e.g. writing code specific to particular tests in the test suites).
 
 {: .note }
 This is our first year running this class with autograding on Gradescope, so there might be some unforeseen issues. Please let the course staff know on Piazza if you run into any issues with the infrastructure.
@@ -119,7 +119,7 @@ Please submit your report in the [Phase 1 Report assignment](https://www.gradesc
 There will be a short questionnaire (multiple-choice) regarding your usage of LLMs, to be released on Gradescope. You should submit this questionnaire even if you did not use LLMs for this phase.
 
 
-## Appendix: Why we defer integer range checking until the next project
+## Appendix: Why we defer integer range checking until the next phase
 
 When considering the problem of checking the legality of the input program, there is no fundamental separation between the responsibilities of the scanner, the parser and the semantic checker. Often, the compiler designer has the choice of checking a certain constraint in a particular phase, or even of dividing the checking across multiple phases. However, for pragmatic reasons, we have had to divide the complete scan/parse/check unit into two parts simply to fit the course schedule better.
 

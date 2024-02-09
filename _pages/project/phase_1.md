@@ -50,7 +50,7 @@ Here is an example table corresponding to `print("Hello, World!");`:
 1 ;
 ```
 
-The `public-tests` repository contains both a set of test files on which to test your scanner and the expected output for these files. The output of your scanner should match the provided output exactly on all valid files. For invalid files, we will only check that your compiler returns a non-zero exit code; the output does not need to match the provided output exactly.
+The `public-tests` repository contains both a set of test files on which to test your scanner and the expected output for these files. The output of your scanner should match the provided output exactly on all valid files. For invalid files, the autograder will only check that your compiler returns a non-zero exit code. We have provided a sample of what you may want your errors to look like, but the output does not need to match the provided output exactly.
 
 
 

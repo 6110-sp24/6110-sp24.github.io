@@ -20,7 +20,7 @@ git init
 git remote add skeleton git@github.com:6110-sp24/decaf-skeleton-<LANGUAGE>.git
 git pull skeleton main
 
-git remote add origin git@github.com:6110-sp24/<YOUR KERB>-phase1.git
+git remote add origin git@github.com:6110-sp24/<YOUR KERB>_phase1.git
 git push -u origin main
 ```
 

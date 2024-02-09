@@ -13,6 +13,7 @@ This phase consists of two segments: lexical analysis (scanning, aka lexing) and
 > 3. A short LLM usage questionnaire, due at **11:59 PM on Monday, February 26**.
 
 These due dates are also posted on the [Class Schedule]({% link _pages/project.md %}).
+Also see [Recitation 1 slides](assets/documents/recitations/r01-project-overview-phase1.pdf) for some advice regarding this phase.
 
 {% include toc.html %}
 
@@ -92,7 +93,7 @@ However, copying code outside of your team is strictly forbidden. While the stud
 
 Please submit your Phase 1 code on Gradescope via GitHub, following the steps below:
 
-1. Push your code to your phase 1 GitHub repository (`6110-sp24/<YOUR KERB>-phase1`). We suggest making a separate branch for the submission, say, `phase1-submission`.
+1. Push your code to your phase 1 GitHub repository (`6110-sp24/<YOUR KERB>_phase1`). We suggest making a separate branch for the submission, say, `phase1-submission`. _(An earlier version of this page and the recitation slides mistakenly used `-phase1` instead of `_phase1`. If you ran into an issue with this, please try again with `_phase1`.)_
 2. Go to the [Phase 1 assignment](https://www.gradescope.com/courses/727449/assignments/4071369) on Gradescope, and select your GitHub repository and branch.
 
 We have set up an autograder for the Gradescope assignment, and you should be able to see the number of test cases you passed when the autograder finishes running. Note that the autograder is slow, and might take up to 40 minutes to run. Please see the [Autograder][autograder] page for more information about the installed software on the autograder.

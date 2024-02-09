@@ -93,7 +93,7 @@ However, copying code between the projects is strictly forbidden. While the stud
 
 Please submit your Phase 1 code on Gradescope via GitHub, following the steps below:
 
-1. Push your code to your phase 1 GitHub repository (`6110-sp24/<YOUR KERB>-phase1`). We suggest making a separate branch for the submission, say, `phase1-submission`.
+1. Push your code to your phase 1 GitHub repository (`6110-sp24/<YOUR KERB>_phase1`). We suggest making a separate branch for the submission, say, `phase1-submission`.
 2. Go to the [Phase 1 assignment](https://www.gradescope.com/courses/727449/assignments/4071369) on Gradescope, and select your GitHub repository and branch.
 
 We have set up an autograder for the Gradescope assignment, and you should be able to see the number of test cases you passed when the autograder finishes running. Note that the autograder is slow, and might take up to 40 minutes to run. Please see the [Autograder][autograder] page for more information about the installed software on the autograder.

@@ -8,6 +8,7 @@ nav_order: 10
 
 {: .announcement }
 > Welcome to Computer Language Engineering!
+> - Re-lectures will be 4-6 p.m. on Wednesdays in [26-322][bldg26]. Office hours schedule is [posted below](#office-hours).
 > - [Phase 1][phase_1] of the project (lexing and parsing) has been released. The submission deadline is __Friday, February 23__.
 > - Mini-quiz 1 and Weekly Check-in 2 are now up on Gradescope, due __Thursday, February 15__.
 > - Make sure to check the [class schedule][schedule] regularly, as lecture dates are subject to change.
@@ -21,7 +22,7 @@ nav_order: 10
 > [6.1100<sub>\[6.035\]</sub> Computer Language Engineering][catalog] \\
 > **Prereq:** [6.1020<sub>\[6.031\]</sub>][031] and [6.1910<sub>\[6.004\]</sub>][004] \\
 > **Units:** 4-4-4 \\
-> **Lecture:** _MWF11_ ([32-124][bldg]) Recitation: _TR12_ ([32-124][bldg])
+> **Lecture:** _MWF11_ ([32-124][bldg]) Recitation: _TR12_ ([32-124][bldg32])
 >
 > Analyzes issues associated with the implementation of higher-level programming languages. Fundamental concepts, functions, and structures of compilers. The interaction of theory and practice. Using tools in building software. Includes a multi-person project on compiler design and implementation.
 
@@ -65,7 +66,7 @@ Details about the project can be found on the [Project Overview][project] page. 
 
 ### Class meetings
 
-Nominally, class meetings are one hour long and take place at [32-124][bldg] at the following times:
+Nominally, class meetings are one hour long and take place at [32-124][bldg32] at the following times:
 
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
 - At 12 p.m. (noon) on Tuesdays and Thursdays.
@@ -77,7 +78,7 @@ _Lectures_, which will cover the fundamental concepts and structures of compiler
 
 #### Re-lectures
 
-If you are unable to attend a lecture, we plan to offer weekly _re-lectures_, which will cover material from the past week's lecture. If you plan to regularly attend re-lectures, please indicate your availability in the [first weekly check-in form](https://www.gradescope.com/courses/727449/assignments/4033643). More information about re-lectures will be posted later.
+If you are unable to attend a lecture, we plan to offer weekly _re-lectures_, which will cover material from the past week's lecture. Re-lectures will be at 4-6 p.m. on Wednesdays in [26-322][bldg26].
 
 ### Mini-Quizzes and Weekly Check-ins
 
@@ -93,7 +94,9 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 
 ### Office hours
 
-To be announced on [Piazza][piazza].
+- Monday 4-6 p.m. in [26-322][bldg26] (Tarushii)
+- Thursday 4-6 p.m. in [26-322][bldg26] (Yoland)
+- Fridays 2-7 p.m. in [26-204][bldg26] (Pleng, 2-4 p.m.; Krit, 4-7 p.m.)
 
 ## Policies
 
@@ -136,7 +139,8 @@ One easy way to record your interactions with LLMs is, for example, the "Share l
 
 [004]: https://student.mit.edu/catalog/m6a.html#6.1910
 [031]: https://student.mit.edu/catalog/m6a.html#6.1020
-[bldg]: http://whereis.mit.edu/map-jpg?mapterms=32
+[bldg26]: http://whereis.mit.edu/map-jpg?mapterms=26
+[bldg32]: http://whereis.mit.edu/map-jpg?mapterms=32
 [catalog]: https://student.mit.edu/catalog/m6a.html#6.1100
 [github]: https://github.com/6110-sp24/
 [gradescope]: https://www.gradescope.com/courses/727449

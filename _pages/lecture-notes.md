@@ -17,7 +17,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 1. Optional --- [Shift-Reduce Parsing][lshift] ([6 slides/page][lshift-6])
     - This used to be covered in past semesters. The material is useful for understanding the internals of some parser generators.
     - _Cooper et al_., Ch. 3 Parsers, § 3.4 Bottom-Up Parsing, p.p. 116-140 (2nd ed.), p.p. 118-142 (3rd ed.).
-1. 02/14 --- [Intermediate Formats][l04] ([6 slides/page][l04-6])
+1. 02/12--02/14 --- [Intermediate Formats][l04] ([6 slides/page][l04-6])
     - _Cooper et al_., Ch. 5 (2nd ed.) or 4 (3rd ed.), Intermediate Representations, p.p. 221-268 (2nd ed.), p.p. 159-207 (3rd ed.).
 
 [l01]: assets/documents/lectures/L01-Introduction.pdf

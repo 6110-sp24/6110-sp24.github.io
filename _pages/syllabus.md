@@ -6,6 +6,9 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
+{: .warning }
+In light of the snow closure, there will be no lecture on Tuesday, February 13th.
+
 {: .announcement }
 > Welcome to Computer Language Engineering!
 > - Re-lectures will be 4-6 p.m. on Wednesdays in [26-322][bldg26]. Office hours schedule is [posted below](#office-hours).

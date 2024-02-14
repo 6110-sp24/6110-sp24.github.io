@@ -37,3 +37,10 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 
 1. 02/05 --- [Course information](assets/documents/recitations/course-information.pdf)
 2. 02/09 --- [Project overview/Phase 1](assets/documents/recitations/r01-project-overview-phase1.pdf)
+
+## Re-lectures
+
+1. 02/14 --- [Slides][rl-1] ([6 pages/slide][rl-1-6pages])
+
+[rl-1]: assets/documents/relectures/relecture-1.pdf
+[rl-1-6pages]: assets/documents/relectures/relecture-1-6pages.pdf

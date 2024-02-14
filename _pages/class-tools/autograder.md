@@ -18,7 +18,7 @@ The autograder is running Ubuntu 22.04, with the following software:
 - JDK: openjdk 17.0.9
 - Scala: 2.13.12
   - sbt: 1.9.8
-- Python 3.10.6
+- Python: 3.10.6
 - Rust: 1.75.0
   - rustc: 1.75.0
   - cargo: 1.75.0
@@ -26,6 +26,8 @@ The autograder is running Ubuntu 22.04, with the following software:
 - Typescript: 5.3.3
   - npm: 10.2.4
   - node: 20.11.0
+- CMake: 3.22.1
+- GNU C Compiler: 11.4.0
 
 Please make sure your submission is compatible with these versions, and that all other dependencies are self-contained in the project. If you are planning to use a different language, or need a dependency not listed where which is not feasible to package with your project, please contact the course staff.
 

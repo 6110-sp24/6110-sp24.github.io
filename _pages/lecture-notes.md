@@ -37,8 +37,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 
 1. 02/05 --- [Course information](assets/documents/recitations/course-information.pdf)
 2. 02/09 --- [Project overview/Phase 1](assets/documents/recitations/r01-project-overview-phase1.pdf)
-3. 02/16 --- [Scanner and parser demo](assets/documents/recitations/r02-scanner-parser.pdf)
-    - [Associated GitHub repository](https://github.com/6110-sp24/recitation2)
+3. 02/16 --- Scanner and parser demo: [announcements](assets/documents/recitations/r02-scanner-parser.pdf), [code](https://github.com/6110-sp24/recitation2)
 
 ## Re-lectures
 

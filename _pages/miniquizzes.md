@@ -8,4 +8,4 @@ The weekly mini-quizzes cover material from the lectures each week, and are grad
 As long as you have submitted on Gradescope, you will receive *full credit* for the miniquiz. We will provide feedback on the accuracy of your mini-quiz answers through Gradescope.
 
 - [Miniquiz #1 (due Feb 15)](https://www.gradescope.com/courses/727449/assignments/4071764) ([Solution](/assets/documents/miniquizzes/miniquiz-1-sol.pdf))
-- [Miniquiz #2 (due Feb 21)](https://www.gradescope.com/courses/727449/assignments/4111157)
+- [Miniquiz #2 (due Feb 22)](https://www.gradescope.com/courses/727449/assignments/4111157)

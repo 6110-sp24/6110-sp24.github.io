@@ -6,13 +6,6 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
-{: .announcement }
-> Welcome to Computer Language Engineering!
-> - Re-lectures will be 4-6 p.m. on Wednesdays in [26-322][bldg26]. Office hours schedule is [posted below](#office-hours).
-> - [Phase 1][phase_1] of the project (lexing and parsing) has been released. The submission deadline is __Friday, February 23__.
-> - Mini-quiz 1 and Weekly Check-in 2 are now up on Gradescope, due __Thursday, February 15__.
-> - Make sure to check the [class schedule][schedule] regularly, as lecture dates are subject to change.
-
 {% include toc.html %}
 
 ## Basic Information

@@ -33,7 +33,7 @@ This part of the project includes the following tasks:
 2. Build symbol tables for the methods.  (A symbol table is an environment, i.e. a mapping from identifiers to semantic objects such as variable declarations.  Environments are structured hierarchically, in parallel with source-level constructs, such as method-bodies, loop-bodies, etc.)
 3. Perform all semantic checks by traversing the IR and accessing the symbol tables. __Note:__ the run-time checks are not relevant for this phase.
 
-  Most semantic errors can be checked by testing the rules enumerated in the "Semantic Rules" section of the [Decaf spec]({%link _pages/project/decaf-spec.md%}). However, you should read the spec in its entirety to make sure that your compiler catches all semantic errors implied by the language definition. We have attempted to provide a precise statement of the semantic rules. If you feel some semantic rule in the language definition may have multiple interpretations, you should work with the interpretation that sounds most reasonable to you and clearly list your assumptions in your project documentation.
+  Most semantic errors can be checked by testing the rules enumerated in the "Semantic Rules" section of the [Decaf spec]({%link _pages/project/decaf-spec.md%}). However, you should read the spec in its entirety to make sure that your compiler catches all semantic errors implied by the language definition. We have attempted to provide a precise statement of the semantic rules. Please ask the course staff if you have any questions about the semantic rules.
 
 Please do not hesitate to reach out to the TAs if you're not sure what to do, find yourself struggling to make progress, or encounter problems relating to team dynamics.
 
@@ -53,7 +53,9 @@ We heavily recommend you to work in groups of at least 3 students, as the amount
 
 Once teams have been formed, each team will be given their own private GitHub repository, which will be used for phases 2-5. Teams should take care to avoid accidentally (or intentionally) sharing their code with other teams. Such actions will constitute cheating.
 
-Use the procedure described in [Setting up the class tools][class-tools] to initialize a new local Git repository with the skeleton repository and tests, then copy in the relevant parts of each team member's scanner and parser. This time, set the `origin` remote to your team repository instead of your personal phase 1 repository.
+Use the procedure described in [Setting up the class tools][class-tools] to initialize a new local Git repository, but this time, set the `origin` remote to your team repository instead of your personal phase 1 repository. You can also start with one of your team member's phase 1 code, or a combination of your team members' phase 1 code.
+
+## Specifications
 
 You should be able to run your compiler from the command line with:
 
@@ -88,7 +90,7 @@ Your report for this phase should include the following parts. (The assignment o
 This phase is worth 5% of the overall grade in this class.
 Your grade in this phase (5% total) is allocated as follows:
 
-- The public and private tests of your semantic checker: 3%
+- Your semantic checker: 3% (2.5% from autograded public and private test cases, 0.5% from error messages, checked manually)
 - A short report, including an overview of your IR design, your team dynamics, and the LLM questionnaire: 2%
 
 The public test cases are available at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests).

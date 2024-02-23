@@ -105,7 +105,7 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 | Component                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
 | [Project phase 1][phase_1] (lexing and parsing)              | 5%     |
-| [Project phase 2][phase_2] (IR and semantic checking)                   | 5%     |
+| [Project phase 2][phase_2] (IR and semantic checking)        | 5%     |
 | Project phase 3 (code generation)                            | 15%    |
 | Project phase 4 (dataflow optimization)                      | 10%    |
 | Project phase 5 (register allocation and other optimizations) <br/>and final submission | 40%    |

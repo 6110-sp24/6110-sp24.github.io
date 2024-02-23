@@ -8,14 +8,14 @@ In this phase, you will extend your compiler to find, report, and recover from s
 
 {: .note }
 > Starting with this phase, you will work in teams of 3-4 people.
-> Please submit the team preference form on Gradescope by **11:59PM on Wednesday, February 28**.
+> Please submit the [Team Preference Form](https://www.gradescope.com/courses/727449/assignments/4145541) on Gradescope by **11:59PM on Wednesday, February 28**.
 >
 > See the [team formation](#team-formation) section below for more information.
 
 {: .announcement }
 > There are two deliverables for this phase, both of which are due at **11:59 PM on Friday, March 8**.
 > 1. Your semantic checker
-> 2. A short report, which will include the LLM questionnaire
+> 2. A short report, including an overview of your IR design, your team dynamics, and the LLM questionnaire
 >
 > Only one submission is needed for each team --- please use Gradescope's feature to add multiple people to a single submission.
 
@@ -29,7 +29,7 @@ This part of the project includes the following tasks:
 
 1. Create a high-level intermediate representation (IR) tree. If you used a parser generator, you can do this either by adding actions to your grammar to build a tree, or by generating a generic tree with the parser generator and walking that to construct a new tree. If you implemented your recursive-descent parser from scratch, you will have to convert your parse tree/AST to the IR tree. The problem of designing an IR will be discussed in the lectures; some hints are given in the final section of this handout.
 
-	When running in debug mode, your compiler should pretty-print the constructed IR tree in some easily-readable form suitable for debugging. This will not graded, but is highly recommended by the course staff.
+	When running in debug mode, your compiler should pretty-print the constructed IR tree in some easily-readable form suitable for debugging. This will not be graded, but is highly recommended by the course staff.
 2. Build symbol tables for the methods.  (A symbol table is an environment, i.e. a mapping from identifiers to semantic objects such as variable declarations.  Environments are structured hierarchically, in parallel with source-level constructs, such as method-bodies, loop-bodies, etc.)
 3. Perform all semantic checks by traversing the IR and accessing the symbol tables. __Note:__ the run-time checks are not relevant for this phase.
 
@@ -39,7 +39,15 @@ Please do not hesitate to reach out to the TAs if you're not sure what to do, fi
 
 ## Team formation
 
-<!-- TODO: add details -->
+Starting in this phase, you will work in teams of up to 4 students.
+We will use the [Team Preference Form](https://www.gradescope.com/courses/727449/assignments/4145541) on Gradescope to assign you to teams. Please submit this form by **11:59PM on Wednesday, February 28.**
+
+On this form you will be able to indicate your programming language of choice, your preferred teammates, and whether you'd like us to match you up with other people. Matching will be done based on your preferred language.
+
+Group submission is enabled on this form. **If you already know who you want to team up with, please submit this form as a group by adding your preferred teammates to your submission.**
+
+{: .note }
+We heavily recommend you to work in groups of at least 3 students, as the amount of work in the project will still be the same even if you have fewer people.
 
 ## Getting started
 
@@ -98,7 +106,7 @@ You should also make sure that your phase 2 compiler also passes all phase 1 tes
 
 Please submit your phase 2 code on Gradescope via GitHub, following the steps below:
 
-1. Push your code to your phase 2 GitHub repository (`6110-sp24/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase2-submission`.
+1. Push your code to your team GitHub repository (`6110-sp24/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase2-submission`.
 2. Go to the [Phase 2 assignment](https://www.gradescope.com/courses/727449/assignments/4132356) on Gradescope, and select your GitHub repository and branch.
 3. Add your team members to the submission on Gradescope.
 

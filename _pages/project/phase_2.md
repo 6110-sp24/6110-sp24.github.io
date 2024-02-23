@@ -85,8 +85,8 @@ Your report for this phase should include the following parts. (The assignment o
 1. An overview of your approach in this phase, including a high-level description of your IR. (Note that you will need to submit more documentation about this phase later, in the Phase 3 report.)
 2. A project status update, including the following information:
   - __Status:__ Is your implementation complete? Are there tests you are failing or bugs you are aware of?
-  - __Questions / Concerns:__ Is there anything in your project that you want TAs to review or address? Are there problems or difficulties you want us to be aware of?
   - __Team Dynamics:__ How did your group divide the work? What issues did you have working as a team, and how do you plan to resolve them going forward?
+  - __Questions / Concerns:__ Is there anything in your project that you want TAs to review or address? Are there problems or difficulties you want us to be aware of?
 3. The LLM Questionnaire.
 
 ## Evaluation

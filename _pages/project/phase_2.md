@@ -90,8 +90,8 @@ Your report for this phase should include the following parts. (The assignment o
 This phase is worth 5% of the overall grade in this class.
 Your grade in this phase (5% total) is allocated as follows:
 
-- Your semantic checker: 3% (2.5% from autograded public and private test cases, 0.5% from error messages, checked manually)
-- A short report, including an overview of your IR design, your team dynamics, and the LLM questionnaire: 2%
+- Your semantic checker: 3.5% (2.5% from autograded public and private test cases, 1% from error messages, checked manually)
+- A short report, including an overview of your IR design, your team dynamics, and the LLM questionnaire: 1.5%
 
 The public test cases are available at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests).
 You should also make sure that your phase 2 compiler also passes all phase 1 test cases. The private test cases for phase 1 will be available at the [`6110-sp24/private-tests` repository](https://github.com/6110-sp24/private-tests) after the phase 1 submission deadline.

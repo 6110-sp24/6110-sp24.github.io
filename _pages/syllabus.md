@@ -6,6 +6,13 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
+{: .warning }
+> - Phase 1 is due **11:59PM tonight** (Friday, February 23), **including the report**. Remember that autograder feedback may take up to 40 minutes. We have office hours from **2-7 PM today in 26-204** if you need help.
+
+{: .announcement }
+> - Starting in phase 2, you will work in teams of up to 4 people. Please submit the [Team Preference Form](https://www.gradescope.com/courses/727449/assignments/4145541) on Gradescope by **11:59PM on Wednesday, February 28**.
+> - [Phase 2][phase_2] has been released, due on **Friday, March 8.**
+
 {% include toc.html %}
 
 ## Basic Information
@@ -98,7 +105,7 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 | Component                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
 | [Project phase 1][phase_1] (lexing and parsing)              | 5%     |
-| Project phase 2 (IR and semantic checking)                   | 5%     |
+| [Project phase 2][phase_2] (IR and semantic checking)                   | 5%     |
 | Project phase 3 (code generation)                            | 15%    |
 | Project phase 4 (dataflow optimization)                      | 10%    |
 | Project phase 5 (register allocation and other optimizations) <br/>and final submission | 40%    |
@@ -140,6 +147,7 @@ One easy way to record your interactions with LLMs is, for example, the "Share l
 [piazza]: https://piazza.com/mit/spring2024/6110/home
 [s3]: https://studentlife.mit.edu/s3
 [phase_1]: {% link _pages/project/phase_1.md %}
+[phase_2]: {% link _pages/project/phase_2.md %}
 [resources]: {% link _pages/resources.md %}
 [schedule]: {% link _pages/schedule.md %}
 [project]: {% link _pages/project.md %}

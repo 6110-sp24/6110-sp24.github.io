@@ -14,14 +14,14 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
     - _Cooper et al_., Ch. 3 Parsers, § 3.1-3.2, p.p. 83-95 (2nd ed.), p.p. 85-98 (3rd ed.).
 1. 02/08 --- [Top-down parsing][l03] ([6 slides/page][l03-6])
     - _Cooper et al_., Ch. 3 Parsers, § 3.3 Top-Down-Parsing, p.p. 96-116 (2nd ed.), p.p. 99-118 (3rd ed.).
-1. 02/12--02/14 --- [Intermediate Formats][l04] ([6 slides/page][l04-6])
+2. 02/12 --- [Intermediate Formats][l04] ([6 slides/page][l04-6])
     - _Cooper et al_., Ch. 5 Intermediate Representations, p.p. 221-268 (2nd ed.), Ch. 4, p.p. 159-207 (3rd ed.).
     - _Cooper et al_., Ch. 6 The Procedure Abstraction, § 6.3 Name Spaces, p.p. 276-297 (2nd ed.).
     - _Cooper et al_., Ch. 5 Syntax Driven Translation, § 5.4 Modeling the Naming Environment, p.p. 227-239 (3rd ed.).
-1. 02/19--TBD --- [Semantic Analysis][l05] ([6 slides/page][l05-6])
+3. 02/14 --- [Semantic Analysis][l05] ([6 slides/page][l05-6])
     - _Cooper et al_., Ch. 4 Context-Sensitive Analysis, § 4.2 Introduction to Type Systems, p.p. 164-181 (2nd ed.).
     - _Cooper et al_., Ch. 5 Syntax Driven Translation, § 5.5 Type Information, p.p. 239-251 (3rd ed.).
-1. TBD --- [Code Generation][l06] ([6 slides/page][l06-6])
+4. 02/20--TBD --- [Code Generation][l06] ([6 slides/page][l06-6])
     - _Cooper et al_., Ch. 6 The Procedure Abstraction, p.p. 269-330 (2nd ed.).
     - _Cooper et al_., Ch. 6 Implementing Procedures, p.p. 275-326 (3rd ed.).
     - _Cooper et al_., Ch. 7 Code shape, p.p. 331-404 (2nd ed.), p.p. 327-378 (3rd ed.).

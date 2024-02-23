@@ -53,7 +53,7 @@ We heavily recommend you to work in groups of at least 3 students, as the amount
 
 Once teams have been formed, each team will be given their own private GitHub repository, which will be used for phases 2-5. Teams should take care to avoid accidentally (or intentionally) sharing their code with other teams. Such actions will constitute cheating.
 
-Use the procedure described in [Setting up the class tools](../phase-1/class-tools.md) to initialize a new local Git repository with the skeleton repository and tests, then copy in the relevant parts of each team member's scanner and parser. This time, set the `origin` remote to your team repository instead of your personal phase 1 repository.
+Use the procedure described in [Setting up the class tools][class-tools] to initialize a new local Git repository with the skeleton repository and tests, then copy in the relevant parts of each team member's scanner and parser. This time, set the `origin` remote to your team repository instead of your personal phase 1 repository.
 
 You should be able to run your compiler from the command line with:
 
@@ -71,13 +71,7 @@ As suggested, when run in debug mode, your compiler should print the constructed
 ./run.sh --target=inter --debug <filename>
 ```
 
-The test cases for this phase have been added to the `tests` repository on Github. They can be added to your repo by going into the `tests` directory and running (as always):
-
-```
-git pull origin main
-```
-
-Read the comments in the test cases to see what we expect your compiler to do. Points will be awarded based on how well your compiler performs on these tests cases.
+The public test cases for this phase have been added to the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests) on Github. Please read the comments in the test cases to see what we expect your compiler to do.
 
 ## Report
 
@@ -95,7 +89,7 @@ This phase is worth 5% of the overall grade in this class.
 Your grade in this phase (5% total) is allocated as follows:
 
 - The public and private tests of your semantic checker: 3%
-- A short report, including your team's overall approach and a status update: 2%
+- A short report, including an overview of your IR design, your team dynamics, and the LLM questionnaire: 2%
 
 The public test cases are available at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests).
 You should also make sure that your phase 2 compiler also passes all phase 1 test cases. The private test cases for phase 1 will be available at the [`6110-sp24/private-tests` repository](https://github.com/6110-sp24/private-tests) after the phase 1 submission deadline.
@@ -205,3 +199,4 @@ Please submit your report in the [Phase 2 Report assignment](https://www.gradesc
 
 - One last note: the treatment of negative integer literals requires some care. Recall from the previous handout that negative integer literals are in fact two separate tokens: the positive integer literal and a preceding `-`.  Whenever your top-down semantic checker finds a unary minus operator, it should check if its operand is a positive integer literal, and if so, replace the subtree (both nodes) by a single, negative integer literal.
 
+[class-tools]: {% link _pages/class-tools.md %}

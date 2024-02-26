@@ -6,8 +6,10 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
-{: .warning }
-> - Phase 1 is due **11:59PM tonight** (Friday, February 23), **including the report**. Remember that autograder feedback may take up to 40 minutes. We have office hours from **2-7 PM today in 26-204** if you need help.
+{: .note }
+> There are no Monday to Thursday lectures this week, and re-lecture on Wednesday is also cancelled.
+>
+> **The class will meet again on Friday (3/1) for a recitation on x86 assembly.**
 
 {: .announcement }
 > - Starting in phase 2, you will work in teams of up to 4 people. Please submit the [Team Preference Form](https://www.gradescope.com/courses/727449/assignments/4145541) on Gradescope by **11:59PM on Wednesday, February 28**.

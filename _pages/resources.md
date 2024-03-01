@@ -16,6 +16,7 @@ You will find these references useful in writing your compiler.
 1. [x86 wiki](https://en.wikibooks.org/wiki/X86_Assembly/X86_Instructions) --- good primer on how x86 instructions work
 1. [x64 cheat sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf) --- lists and tables detailing registers and assembly commands from Brown University's CS033
 1. [Agner Fog's optimization page](https://agner.org/optimize/) --- this is a very useful reference page with manuals on how to optimize code for x86-64. In particular, take a look at the [latency tables](https://agner.org/optimize/instruction_tables.pdf).
+1. [Godbolt](https://godbolt.org) --- allows you to input C code and gives you line-by-line assembly output of various compilers (such as gcc and clang), very useful for figuring out how to translate certain operations to assembly.
 
 If you find interesting resources you think other students could benefit from, please consider sharing them on Piazza!
 

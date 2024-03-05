@@ -7,13 +7,11 @@ nav_order: 10
 <h1> Computer Language Engineering (6.110) </h1>
 
 {: .note }
-> There are no Monday to Thursday lectures this week, and re-lecture on Wednesday is also cancelled.
->
-> **The class will meet again on Friday (3/1) for a recitation on x86 assembly.**
+> There will be lecture tomorrow (3/5).
 
 {: .announcement }
-> - Starting in phase 2, you will work in teams of up to 4 people. Please submit the [Team Preference Form](https://www.gradescope.com/courses/727449/assignments/4145541) on Gradescope by **11:59PM on Wednesday, February 28**.
 > - [Phase 2][phase_2] has been released, due on **Friday, March 8.**
+> - Quiz 1 will be on **Friday, March 15.** We will have a quiz review session during relecture time (4-6pm) on **Wednesday, March 13.** Practice material will be released shortly.
 
 {% include toc.html %}
 

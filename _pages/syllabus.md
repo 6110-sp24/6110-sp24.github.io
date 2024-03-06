@@ -6,9 +6,6 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
-{: .note }
-> There will be lecture tomorrow (3/5).
-
 {: .announcement }
 > - [Phase 2][phase_2] has been released, due on **Friday, March 8.**
 > - Quiz 1 will be on **Friday, March 15.** We will have a quiz review session during relecture time (4-6pm) on **Wednesday, March 13.** Practice material will be released shortly.

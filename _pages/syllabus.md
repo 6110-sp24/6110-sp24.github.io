@@ -148,6 +148,7 @@ One easy way to record your interactions with LLMs is, for example, the "Share l
 [s3]: https://studentlife.mit.edu/s3
 [phase_1]: {% link _pages/project/phase_1.md %}
 [phase_2]: {% link _pages/project/phase_2.md %}
+[quizzes]: {% link _pages/quizzes.md %}
 [resources]: {% link _pages/resources.md %}
 [schedule]: {% link _pages/schedule.md %}
 [project]: {% link _pages/project.md %}

@@ -61,11 +61,14 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 
 1. 02/14 --- [Regular expressions, automata, grammars, parse trees][rl-1] ([6 pages/slide][rl-1-6pages])
 2. 02/21 --- [High-level IR, semantic checking][rl-2] ([6 pages/slide][rl-2-6pages])
+2. 03/05 --- [Code generation][rl-3] ([6 pages/slide][rl-3-6pages])
 
 [rl-1]: assets/documents/relectures/relecture-1.pdf
 [rl-1-6pages]: assets/documents/relectures/relecture-1-6pages.pdf
 [rl-2]: assets/documents/relectures/relecture-2.pdf
 [rl-2-6pages]: assets/documents/relectures/relecture-2-6pages.pdf
+[rl-3]: assets/documents/relectures/relecture-3.pdf
+[rl-3-6pages]: assets/documents/relectures/relecture-3-6pages.pdf
 
 ## Recordings
 

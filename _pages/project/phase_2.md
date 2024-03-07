@@ -57,10 +57,13 @@ Use the procedure described in [Setting up the class tools][class-tools] to init
 
 ## Specifications
 
+{: .note}
+An earlier version of this page mistakenly stated that the command being run is `./run.sh --target=inter <filename>`. The autograder actually runs `./run.sh -t inter <filename>`, with a space between `-t` and `inter`.
+
 You should be able to run your compiler from the command line with:
 
 ```
-./run.sh --target=inter <filename>
+./run.sh -t inter <filename>
 ```
 
 The resulting output to the terminal should be a report of all errors (printed to stderr) encountered while compiling the file. Your compiler should give reasonable and specific error messages (with line numbers, column numbers and identifier names) for all errors detected. It should avoid reporting multiple error messages for the same error. For example, if `y` has not been declared in the assignment statement `x=y+1;`, the compiler should report only one error message for `y`, rather than one error message for `y`, another error message for the `+`, and yet another error message for the assignment.
@@ -70,7 +73,7 @@ After you implement the static semantic checker, your compiler should be able to
 As suggested, when run in debug mode, your compiler should print the constructed IR and symbol tables in some form. You can run in debug mode using the command:
 
 ```
-./run.sh --target=inter --debug <filename>
+./run.sh -t inter --debug <filename>
 ```
 
 The public test cases for this phase have been added to the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests) on Github. Please read the comments in the test cases to see what we expect your compiler to do.

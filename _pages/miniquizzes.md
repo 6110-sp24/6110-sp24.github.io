@@ -9,4 +9,6 @@ As long as you have submitted on Gradescope, you will receive *full credit* for 
 
 - [Miniquiz #1 (due Feb 15)](https://www.gradescope.com/courses/727449/assignments/4071764) ([Solution](/assets/documents/miniquizzes/miniquiz-1-sol.pdf))
 - [Miniquiz #2 (due Feb 22)](https://www.gradescope.com/courses/727449/assignments/4111157) ([Solution](/assets/documents/miniquizzes/miniquiz-2-sol.pdf))
-- [Miniquiz #3 (due Mar 29)](https://www.gradescope.com/courses/727449/assignments/4146969)
+- [Miniquiz #3 (due Feb 29)](https://www.gradescope.com/courses/727449/assignments/4146969) ([Solution](/assets/documents/miniquizzes/miniquiz-3-sol.pdf))
+- [Miniquiz #4 (due Mar 7)](https://www.gradescope.com/courses/727449/assignments/4178941) ([Solution](/assets/documents/miniquizzes/miniquiz-4-sol.pdf))
+- [Miniquiz #5 (due Mar 14)](https://www.gradescope.com/courses/727449/assignments/4210685)

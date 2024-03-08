@@ -91,9 +91,20 @@ As usual, you can run your executable with `./<EXECUTABLE>` and print its return
 
 ## Design Document
 
-In this phase you will also submit a Project Design Document that explains the technical details of phase 1, 2, and 3. This will be reviewed by the TAs and feedback will be provided. Please see the [main Project page][design-doc] for more information.
+In this phase you will also write a design document that explains the technical details of phase 1, 2, and 3. This will be a much more substantial document than the reports for previous phases --- we expect it to be around 5 pages long.
 
-The design document should help us understand your code, convince us it's sufficiently general, and let us know anything that might not be reflected in your code. Additionally, if there are any phase 2 tests that you were not passing before the phase 2 deadline, but fixed for phase 3, you should also include this information in the write up. Let us know which tests you fixed and what modifications were required. For this phase, the writeup should be just a few pages long. Of course, writing clean/easy-to-understand/well-commented code can save you a lot of work on the documentation.
+The TAs will review your design document and provide feedback. As per the [main Project page][design-doc], the design document should include the following sections.
+
+1. **Design:** An overview of your design, an analysis of design alternatives you considered, and key design decisions. This section should help us understand your code, convince us that it is sufficiently general, and let us know anything that might not be reflected in your code. In particular, you should explain the compilation steps (the entry point, flow, etc.) done by your compiler, and discuss the design of the following components:
+   - your high-level IR,
+   - your semantic checker,
+   - your low-level IR, and
+   - your code generator.
+2. **Extras:** A list of any clarifications, assumptions, or additions to the problem assigned. This include any interesting debugging techniques/logging, additional build scripts, or approved libraries used in designing the compiler. The project specifications are fairly broad and leave many of the decisions to you. This is an aspect of real software engineering. If you think major clarifications are necessary, consult the TA.
+3. **Difficulties:** A list of known problems with your project, and as much as you know about the cause. If there are any phase 2 tests that you were not passing before the phase 2 deadline, but fixed for phase 3, you should also include this information in the write up.
+4. **Contribution:** A brief description of how your group divided the work. This will not affect your grade; it will be used to alert the TAs to any possible problems.
+
+In addition, if you used LLMs when working on the project, you should also describe how you used them and provide us with chat logs (if possible) in your design document.
 
 ## Evaluation
 

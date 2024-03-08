@@ -6,9 +6,12 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
+{: .warning }
+> **[Phase 2][phase_2] is due today (Friday, March 8.)** Make sure to submit both the code and the report, and add your teammates to both submissions!
+
 {: .announcement }
-> - [Phase 2][phase_2] has been released, due on **Friday, March 8.**
-> - Quiz 1 will be on **Friday, March 15.** We will have a quiz review session during relecture time (4-6pm) on **Wednesday, March 13.** Practice material is now posted on the [Quizzes][quizzes] page.
+> - [Phase 3][phase_3] has been released, due on **Friday, April 5.**
+> - Quiz 1 will be on **Friday, March 15.** We will have a quiz review session on **Wednesday, March 13.** Practice material is now posted on the [Quizzes][quizzes] page.
 
 {% include toc.html %}
 
@@ -103,7 +106,7 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 | ------------------------------------------------------------ | ------ |
 | [Project phase 1][phase_1] (lexing and parsing)              | 5%     |
 | [Project phase 2][phase_2] (IR and semantic checking)        | 5%     |
-| Project phase 3 (code generation)                            | 15%    |
+| [Project phase 3][phase_3] (code generation)                 | 15%    |
 | Project phase 4 (dataflow optimization)                      | 10%    |
 | Project phase 5 (register allocation and other optimizations) <br/>and final submission | 40%    |
 | Quiz 1                                                       | 10%    |
@@ -145,6 +148,7 @@ One easy way to record your interactions with LLMs is, for example, the "Share l
 [s3]: https://studentlife.mit.edu/s3
 [phase_1]: {% link _pages/project/phase_1.md %}
 [phase_2]: {% link _pages/project/phase_2.md %}
+[phase_3]: {% link _pages/project/phase_3.md %}
 [quizzes]: {% link _pages/quizzes.md %}
 [resources]: {% link _pages/resources.md %}
 [schedule]: {% link _pages/schedule.md %}

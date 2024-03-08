@@ -21,7 +21,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 3. 02/14 --- [Semantic Analysis][l05] ([6 slides/page][l05-6])
     - _Cooper et al_., Ch. 4 Context-Sensitive Analysis, § 4.2 Introduction to Type Systems, p.p. 164-181 (2nd ed.).
     - _Cooper et al_., Ch. 5 Syntax Driven Translation, § 5.5 Type Information, p.p. 239-251 (3rd ed.).
-4. 02/20--TBD --- [Code Generation][l06] ([6 slides/page][l06-6])
+4. 02/20--02/21, 03/05--03/07 --- [Code Generation][l06] ([6 slides/page][l06-6])
     - _Cooper et al_., Ch. 6 The Procedure Abstraction, p.p. 269-330 (2nd ed.).
     - _Cooper et al_., Ch. 6 Implementing Procedures, p.p. 275-326 (3rd ed.).
     - _Cooper et al_., Ch. 7 Code shape, p.p. 331-404 (2nd ed.), p.p. 327-378 (3rd ed.).

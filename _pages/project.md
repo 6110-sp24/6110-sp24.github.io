@@ -83,7 +83,7 @@ You can also implement instruction scheduling, register allocation, peephole opt
 In order to identify and prioritize optimizations, you will be provided with a benchmark suite of a few simple applications.
 Your task is to analyze these programs, perhaps hand optimizing these programs, to identify which optimizations will have the highest performance impact. Your write-up needs to clearly describe the process you went through to identify the optimizations you implemented and justify them.
 
-You will turn in a Project Design Document that details the technical details of phase 5. 
+You will turn in a Project Design Document that details the technical details of phase 5.
 
 ### Compiler Derby
 
@@ -93,11 +93,11 @@ The last class will be the *Compiler Derby* at which your group will compete aga
 
 For each phase, you are required to submit your *project design documents* and *complete sources* (including all files needed to build your project). Your projects will be submitted via GitHub. Do not include compiled files. Instead, you repo should contain an executable file called `build.sh` in the top-level directory which will compile your code. These files are provided for you in the skeleton code; you may modify them if you need to.
 
-Phases 2 through 5 will be done in groups. Each group will be given access to a repository for their project on Github. 
+Phases 2 through 5 will be done in groups. Each group will be given access to a repository for their project on Github.
 
 There are few restrictions on how the project should be structured, except that it should be self-contained (apart from the allowed libraries and programming environment), and contain executables `build.sh` and `run.sh` in the top-level directory.
 
-We will release public tests associated with each phase, which will be released with the phase instructions. There are also private tests, which will be released **after** the due date of each phase. We will grade your submission based on both the public and private tests after each phase. 
+We will release public tests associated with each phase, which will be released with the phase instructions. There are also private tests, which will be released **after** the due date of each phase. We will grade your submission based on both the public and private tests after each phase.
 
 Your project design document will make up a portion of your grade for each phase. Please make sure not to neglect turning it in.
 
@@ -130,14 +130,12 @@ For each provided language skeleton, we have provided code which is sufficient t
 
 ## Project Design Document
 
-Documentation should included in your source archive in the `doc` folder.
-
-You will also submit one design document/report written for each of the phases. Documentation should be clear, concise and readable. Acceptable formats include PDFs and plain text files.
+From Phase 3 onwards, you should include a Project Design Document in the `doc` folder of your GitHub repository as a PDF file. Documentation should be clear, concise and readable.
 
 Your documentation must include the following parts, which could be described as Design, Extras, Difficulties, and Contribution.
 Not every question or point of each part need to be addressed, just enough information to describe each portion effectively:
 
-### Design 
+### Design
 An overview of your design, an analysis of design alternatives you considered, and key design decisions. Be sure to document and justify all design decisions you make. Any decision accompanied by a convincing argument will be accepted.
 
 If you realize there are flaws or deficiencies in your design late in the implementation process, discuss those flaws and how you would have done things differently. Also include any changes you made to previous parts and why they were necessary.
@@ -155,6 +153,6 @@ A list of known problems with your project, and as much as you know about the ca
 - If you were failing any test cases for a previous phase and managed to fix them by the current phase, give a short description of what the problem was and how you fixed it
 - Describe any section of your project that you would like to highlight for more feedback on/had questions on
 
-### Contribution 
+### Contribution
 A brief description of how your group divided the work. This will not affect your grade; it will be used to alert the TAs to any possible problems.
 

@@ -102,7 +102,7 @@ This phase is worth 15% of the overall grade in this class. Your grade in this p
 - Your Project Design Document: 3%
 
 The public test cases are available at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests).
-You should also make sure that your phase 3 compiler also passes all of the legal phase 1 and 2 test cases. The private test cases for phase 2 will be available at the [`6110-sp24/private-tests` repository](https://github.com/6110-sp24/private-tests) after the phase 3 submission deadline.
+You should also make sure that your phase 3 compiler also passes all of the legal phase 1 and 2 test cases. The private test cases for phase 2 will be available at the [`6110-sp24/private-tests` repository](https://github.com/6110-sp24/private-tests) after the phase 2 submission deadline.
 
 
 ## Submission

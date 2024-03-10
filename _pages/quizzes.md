@@ -15,6 +15,8 @@ The quiz will cover material up to the Code Generation lectures. This correspond
 
 The quiz will be __open-book__: you may use a laptop to access anything on or directly linked to from the course website. You may also use any handwritten notes. You __may not__ use the broader internet, any search engines, large language models, or other resources.
 
+There will be a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, March 13.
+
 ## Quiz 2
 
 Quiz 2 will be held during class time on __Friday, May 3__ at our usual classroom (32-124). More information about Quiz 2 will be posted later.

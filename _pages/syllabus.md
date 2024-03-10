@@ -6,12 +6,9 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
-{: .warning }
-> **[Phase 2][phase_2] is due today (Friday, March 8.)** Make sure to submit both the code and the report, and add your teammates to both submissions!
-
 {: .announcement }
+> - Quiz 1 will be on **Friday, March 15.** We will have a quiz review session on **Wednesday, March 13** during relecture time (4-6pm in 26-322). Practice material is now posted on the [Quizzes][quizzes] page.
 > - [Phase 3][phase_3] has been released, due on **Friday, April 5.**
-> - Quiz 1 will be on **Friday, March 15.** We will have a quiz review session on **Wednesday, March 13.** Practice material is now posted on the [Quizzes][quizzes] page.
 
 {% include toc.html %}
 

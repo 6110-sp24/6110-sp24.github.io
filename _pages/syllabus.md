@@ -6,8 +6,13 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
+{: .weekly }
+> - There are no lectures this week (Monday to Thursday).
+> - [Quiz 1][quizzes] will be on **Friday, March 15** during class time in our usual classroom (11am-12pm in 32-124). If you have a conflict with this time, please reach out to us on Piazza and/or email ASAP.
+> - We will have a quiz review session on **Wednesday, March 13** during relecture time (4-6pm in 26-322).  In the review session we’ll briefly review important concepts from lecture and then go over the Spring 2023 quiz (and the Spring 2022 quiz if time permits). The review session will be recorded.
+> - Miniquiz 5 has been cancelled. Weekly check-in is still due on Thursday, March 14, as usual.
+
 {: .announcement }
-> - Quiz 1 will be on **Friday, March 15.** We will have a quiz review session on **Wednesday, March 13** during relecture time (4-6pm in 26-322). Practice material is now posted on the [Quizzes][quizzes] page.
 > - [Phase 3][phase_3] has been released, due on **Friday, April 5.**
 
 {% include toc.html %}

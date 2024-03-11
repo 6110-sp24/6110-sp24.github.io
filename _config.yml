@@ -54,3 +54,6 @@ callouts:
   announcement:
     title: Announcement
     color: blue
+  weekly:
+    title: Weekly updates
+    color: green

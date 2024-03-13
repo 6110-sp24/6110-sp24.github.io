@@ -13,9 +13,14 @@ The quiz will cover material up to the Code Generation lectures. This correspond
 - Re-lectures 1--3 on the [Lecture Slides][lecture-notes] page.
 - [Miniquizzes][miniquizzes] 1--5.
 
-The quiz will be __open-book__: you may use a laptop to access anything on or directly linked to from the course website. You may also use any handwritten notes. You __may not__ use the broader internet, any search engines, large language models, or other resources.
+The quiz will be __open-book__: you may use a laptop to access anything on or directly linked to from the course website. (This includes Godbolt!) You may also use any handwritten notes. You __may not__ use the broader internet, any search engines, large language models, or other resources.
 
-There will be a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, March 13.
+We had a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, March 13.
+Here are the materials from the review session:
+- [Review slides](/assets/documents/quiz-reviews/q1-review.pdf)
+- [Annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q1-review-2023sp-exam1.pdf)
+
+The recording of the review session will be made available on the course Panopto.
 
 ## Quiz 2
 

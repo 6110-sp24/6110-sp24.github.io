@@ -9,7 +9,7 @@ nav_order: 10
 {: .weekly }
 > - There are no lectures this week (Monday to Thursday).
 > - [Quiz 1][quizzes] will be on **Friday, March 15** during class time in our usual classroom (11am-12pm in 32-124). If you have a conflict with this time, please reach out to us on Piazza and/or email ASAP.
-> - We will have a quiz review session on **Wednesday, March 13** during relecture time (4-6pm in 26-322).  In the review session we’ll briefly review important concepts from lecture and then go over the Spring 2023 quiz (and the Spring 2022 quiz if time permits). The review session will be recorded.
+> - We had a quiz review session on **Wednesday, March 13** during relecture time (4-6pm in 26-322). Here are the [review slides](/assets/documents/quiz-reviews/q1-review.pdf) and the [annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q1-review-2023sp-exam1.pdf). The recording will be on the course Panopto.
 > - Miniquiz 5 has been cancelled. Weekly check-in is still due on Thursday, March 14, as usual.
 
 {: .announcement }

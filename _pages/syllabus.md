@@ -6,6 +6,9 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
+{: .warning }
+During the review session, we stated that Godbolt would be allowed during the quiz. We will actually **not allow** usage of Godbolt during the quiz. Apologies for the late policy change.
+
 {: .weekly }
 > - There are no lectures this week (Monday to Thursday).
 > - [Quiz 1][quizzes] will be on **Friday, March 15** during class time in our usual classroom (11am-12pm in 32-124). If you have a conflict with this time, please reach out to us on Piazza and/or email ASAP.

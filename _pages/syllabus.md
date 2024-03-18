@@ -10,10 +10,8 @@ nav_order: 10
 During the review session, we stated that Godbolt would be allowed during the quiz. We will actually **not allow** usage of Godbolt during the quiz. Apologies for the late policy change.
 
 {: .weekly }
-> - There are no lectures this week (Monday to Thursday).
-> - [Quiz 1][quizzes] will be on **Friday, March 15** during class time in our usual classroom (11am-12pm in 32-124). If you have a conflict with this time, please reach out to us on Piazza and/or email ASAP.
-> - We had a quiz review session on **Wednesday, March 13** during relecture time (4-6pm in 26-322). Here are the [review slides](/assets/documents/quiz-reviews/q1-review.pdf) and the [annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q1-review-2023sp-exam1.pdf). The recording will be on the course Panopto.
-> - Miniquiz 5 has been cancelled. Weekly check-in is still due on Thursday, March 14, as usual.
+> - There are lectures on Monday (3/18), Wednesday (3/20), and Thursday (3/21) this week; there is no lecture on Tuesday (3/19).
+> - There is recitation on Friday (3/22) as usual.
 
 {: .announcement }
 > - [Phase 3][phase_3] has been released, due on **Friday, April 5.**

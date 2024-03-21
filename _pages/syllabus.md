@@ -6,8 +6,9 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
-{: .warning }
-During the review session, we stated that Godbolt would be allowed during the quiz. We will actually **not allow** usage of Godbolt during the quiz. Apologies for the late policy change.
+{: .note }
+> - Quiz 1 has been graded and returned on Gradescope. Regrade requests are open until **April 4**.
+> - You can find the quiz solutions here: [Quiz 1 solution](/assets/documents/quizzes/2024sp-exam1-key.pdf).
 
 {: .weekly }
 > - There are lectures on Monday (3/18), Wednesday (3/20), and Thursday (3/21) this week; there is no lecture on Tuesday (3/19).

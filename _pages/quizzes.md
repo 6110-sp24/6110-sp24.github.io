@@ -7,9 +7,6 @@ There are two quizzes, each worth 10% of the overall grade in this course.
 
 ## Quiz 1
 
-{: .warning }
-During the review session, we stated that Godbolt would be allowed during the quiz. We will actually **not allow** usage of Godbolt during the quiz. Apologies for the late policy change.
-
 Quiz 1 will be held during class time on __Friday, March 15__ at our usual classroom (32-124).
 The quiz will cover material up to the Code Generation lectures. This corresponds to:
 - Lecture slide decks 1--6 on the [Lecture Slides][lecture-notes] page.
@@ -35,6 +32,7 @@ Quiz 2 will be held during class time on __Friday, May 3__ at our usual classroo
 > - While we are giving you past quizzes back to 2011, we strongly recommend just studying the more recent ones.
 > - In previous years, we covered shift-reduce parsing. This will not be on the quiz this year.
 
+- Spring 2024: [Quiz 1](/assets/documents/quizzes/2024sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam1-key.pdf))
 - Spring 2023: [Quiz 1](/assets/documents/quizzes/2023sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam1-key.pdf))
 - Spring 2022: [Quiz 1](/assets/documents/quizzes/2022sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2022sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam2-key.pdf))
 - Fall 2018: [Quiz 1](/assets/documents/quizzes/2018fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2018fa-exam1-key.pdf))

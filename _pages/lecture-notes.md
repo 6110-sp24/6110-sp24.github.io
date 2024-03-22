@@ -60,6 +60,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 3. 02/23 --- Project phase 2: [announcements](assets/documents/recitations/r03-phase2.pdf), [code](https://github.com/6110-sp24/recitation3)
 4. 03/01 --- [x86 Introduction](assets/documents/recitations/r04-x86-asm.pdf)
 5. 03/08 --- Project phase 3: [announcements](assets/documents/recitations/r05-phase3.pdf), [code](https://github.com/6110-sp24/recitation5)
+6. 03/22 --- [Introduction to SSA](assets/documents/recitations/r06-ssa.pdf)
 
 ## Re-lectures
 

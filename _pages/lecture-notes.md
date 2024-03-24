@@ -26,6 +26,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
     - _Cooper et al_., Ch. 6 Implementing Procedures, p.p. 275-326 (3rd ed.).
     - _Cooper et al_., Ch. 7 Code shape, p.p. 331-404 (2nd ed.), p.p. 327-378 (3rd ed.).
 1. 03/18--TBD --- [Program Analysis and Optimization][l07] ([6 slides/page][l07-6])
+1. TBD--TBD --- [Dataflow Analysis][l08] ([6 slides/page][l08-6])
 
 ### Optional content
 
@@ -49,11 +50,14 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [l06-6]: assets/documents/lectures/L06-CodeGeneration-6pages.pdf
 [l07]: assets/documents/lectures/L07-ProgramAnalysisOptimization.pdf
 [l07-6]: assets/documents/lectures/L07-ProgramAnalysisOptimization-6pages.pdf
+[l08]: assets/documents/lectures/L08-DataflowAnalysis.pdf
+[l08-6]: assets/documents/lectures/L08-DataflowAnalysis-6pages.pdf
 
 [cooper]: https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935028392606761
 
 ## Recitations
 
+{:style="counter-reset:step-counter -1"}
 0. 02/05 --- [Course information](assets/documents/recitations/course-information.pdf)
 1. 02/09 --- [Project overview, phase 1](assets/documents/recitations/r01-project-overview-phase1.pdf)
 2. 02/16 --- Scanner and parser demo: [announcements](assets/documents/recitations/r02-scanner-parser.pdf), [code](https://github.com/6110-sp24/recitation2)
@@ -66,7 +70,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 
 1. 02/14 --- [Regular expressions, automata, grammars, parse trees][rl-1] ([6 pages/slide][rl-1-6pages])
 2. 02/21 --- [High-level IR, semantic checking][rl-2] ([6 pages/slide][rl-2-6pages])
-2. 03/06 --- [Code generation][rl-3] ([6 pages/slide][rl-3-6pages])
+3. 03/06 --- [Code generation][rl-3] ([6 pages/slide][rl-3-6pages])
 
 [rl-1]: assets/documents/relectures/relecture-1.pdf
 [rl-1-6pages]: assets/documents/relectures/relecture-1-6pages.pdf

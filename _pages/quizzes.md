@@ -10,17 +10,19 @@ Quizzes are __open-book__: you may use a laptop to access anything on or directl
 ## Quiz 1
 
 Quiz 1 was held during class time on __Friday, March 15__ at our usual classroom (32-124).
-The quiz will cover material up to the Code Generation lectures. This corresponds to:
+The quiz covered material up to the Code Generation lectures. This corresponded to:
 - Lecture slide decks 1--6 on the [Lecture Slides][lecture-notes] page.
 - Re-lectures 1--3 on the [Lecture Slides][lecture-notes] page.
-- [Miniquizzes][miniquizzes] 1--5.
+- [Miniquizzes][miniquizzes] 1--5.d
 
 We had a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, March 13.
 Here are the materials from the review session:
 - [Review slides](/assets/documents/quiz-reviews/q1-review.pdf)
 - [Annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q1-review-2023sp-exam1.pdf)
 
-The recording of the review session will be made available on the course Panopto.
+The recording of the review session is available on the course Panopto (linked on Piazza).
+
+Your quiz grade has been released on Gradescope. You can find the quiz solutions here: [Quiz 1 solution](/assets/documents/quizzes/2024sp-exam1-key.pdf).
 
 ## Quiz 2
 

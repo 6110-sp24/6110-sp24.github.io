@@ -7,15 +7,11 @@ nav_order: 10
 <h1> Computer Language Engineering (6.110) </h1>
 
 {: .note }
+> - You are _not_ expected to work over the spring break. Phase 3 deadline was chosen so you have ample time before and after spring break to work on this phase. Please make sure to prioritize your well-being!
+> - There are no lectures, recitations, re-lectures, or office hours during spring break.
 > - Quiz 1 has been graded and returned on Gradescope. Regrade requests are open until **April 4**.
 > - You can find the quiz solutions here: [Quiz 1 solution](/assets/documents/quizzes/2024sp-exam1-key.pdf).
-
-{: .weekly }
-> - There are lectures on Monday (3/18), Wednesday (3/20), and Thursday (3/21) this week; there is no lecture on Tuesday (3/19).
-> - There is recitation on Friday (3/22) as usual.
-
-{: .announcement }
-> - [Phase 3][phase_3] has been released, due on **Friday, April 5.**
+> - [Phase 3][phase_3] is due on **Friday, April 5.**
 
 {% include toc.html %}
 

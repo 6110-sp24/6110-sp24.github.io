@@ -13,7 +13,7 @@ Quiz 1 was held during class time on __Friday, March 15__ at our usual classroom
 The quiz covered material up to the Code Generation lectures. This corresponded to:
 - Lecture slide decks 1--6 on the [Lecture Slides][lecture-notes] page.
 - Re-lectures 1--3 on the [Lecture Slides][lecture-notes] page.
-- [Miniquizzes][miniquizzes] 1--5.d
+- [Miniquizzes][miniquizzes] 1--4.
 
 We had a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, March 13.
 Here are the materials from the review session:

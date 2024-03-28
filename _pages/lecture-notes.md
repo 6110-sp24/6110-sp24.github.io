@@ -25,8 +25,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
     - _Cooper et al_., Ch. 6 The Procedure Abstraction, p.p. 269-330 (2nd ed.).
     - _Cooper et al_., Ch. 6 Implementing Procedures, p.p. 275-326 (3rd ed.).
     - _Cooper et al_., Ch. 7 Code shape, p.p. 331-404 (2nd ed.), p.p. 327-378 (3rd ed.).
-1. 03/18--TBD --- [Program Analysis and Optimization][l07] ([6 slides/page][l07-6])
-1. TBD--TBD --- [Dataflow Analysis][l08] ([6 slides/page][l08-6])
+1. 03/18 --- [Program Analysis and Optimization][l07] ([6 slides/page][l07-6])
+1. 03/20-03/21 --- [Dataflow Analysis][l08] ([6 slides/page][l08-6])
 
 ### Optional content
 

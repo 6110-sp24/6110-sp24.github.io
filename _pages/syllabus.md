@@ -4,11 +4,7 @@ layout: home
 nav_order: 10
 ---
 
-<script>
-document.body.style.fontFamily = "Papyrus";
-</script>
-<marquee scrollamount="20"><h1> Computer Language Engineering (6.110) <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F09%2F01%2F08%2F24%2Fsmiley-1635449_960_720.png&f=1&nofb=1&ipt=3f856a6caebae52252680ceb1aaa0cbc517f3dc051aaaa933ab7e09b4c74fa65&ipo=images" width="100px"> </h1></marquee>
-<center><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.techyv.com%2Fsites%2Fdefault%2Fusers%2Fsuperuser%2Fdepositphotos_43853639-stock-photo-word-cloud-programming-languages-or.jpg&f=1&nofb=1&ipt=e75ed663bfdf0fa575bab697d319f38feb278a176a02c0a297366047c66555cf&ipo=images" width="500px"></center>
+<h1> Computer Language Engineering (6.110) </h1>
 
 {: .note }
 > - You are _not_ expected to work over the spring break. Phase 3 deadline was chosen so you have ample time before and after spring break to work on this phase. Please make sure to prioritize your well-being!

@@ -26,7 +26,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
     - _Cooper et al_., Ch. 6 Implementing Procedures, p.p. 275-326 (3rd ed.).
     - _Cooper et al_., Ch. 7 Code shape, p.p. 331-404 (2nd ed.), p.p. 327-378 (3rd ed.).
 1. 03/18 --- [Program Analysis and Optimization][l07] ([6 slides/page][l07-6])
-1. 03/20-03/21 --- [Dataflow Analysis][l08] ([6 slides/page][l08-6])
+1. 03/20--03/21 --- [Dataflow Analysis][l08] ([6 slides/page][l08-6])
+1. 04/01--TBD --- Loop Optimizations (slides will be uploaded soon)
 
 ### Optional content
 
@@ -71,6 +72,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 1. 02/14 --- [Regular expressions, automata, grammars, parse trees][rl-1] ([6 pages/slide][rl-1-6pages])
 2. 02/21 --- [High-level IR, semantic checking][rl-2] ([6 pages/slide][rl-2-6pages])
 3. 03/06 --- [Code generation][rl-3] ([6 pages/slide][rl-3-6pages])
+4. 04/03 --- [Program analysis and optimization][rl-4] ([6 pages/slide][rl-4-6pages])
 
 [rl-1]: assets/documents/relectures/relecture-1.pdf
 [rl-1-6pages]: assets/documents/relectures/relecture-1-6pages.pdf
@@ -78,6 +80,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [rl-2-6pages]: assets/documents/relectures/relecture-2-6pages.pdf
 [rl-3]: assets/documents/relectures/relecture-3.pdf
 [rl-3-6pages]: assets/documents/relectures/relecture-3-6pages.pdf
+[rl-4]: assets/documents/relectures/relecture-4.pdf
+[rl-4-6pages]: assets/documents/relectures/relecture-4-6pages.pdf
 
 ## Quiz reviews
 

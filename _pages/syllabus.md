@@ -7,9 +7,9 @@ nav_order: 10
 <h1> Computer Language Engineering (6.110) </h1>
 
 {: .note }
-> - There is lecture on Monday (4/1), Wednesday (4/3), and Thursday (4/4), and there is recitation on Friday (4/5).
-> - Quiz 1 has been graded and returned on Gradescope. Regrade requests are open until **April 4**. You can find the quiz solutions here: [Quiz 1 solution](/assets/documents/quizzes/2024sp-exam1-key.pdf).
-> - [Phase 3][phase_3] is due on **Friday, April 5.**
+> - There is a guest lecture by Ron Minsky on Wednesday (4/17) and a recitation on Friday (4/19).
+> - [Phase 3][phase_3] has been graded and should be available on [Gradescope][gradescope].
+> - [Phase 4][phase_4] is due on **Friday, April 19th**.
 
 {% include toc.html %}
 
@@ -105,7 +105,7 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 | [Project phase 1][phase_1] (lexing and parsing)              | 5%     |
 | [Project phase 2][phase_2] (IR and semantic checking)        | 5%     |
 | [Project phase 3][phase_3] (code generation)                 | 15%    |
-| Project phase 4 (dataflow optimization)                      | 10%    |
+| [Project phase 4][phase_4] (dataflow optimization)           | 10%    |
 | Project phase 5 (register allocation and other optimizations) <br/>and final submission | 40%    |
 | Quiz 1                                                       | 10%    |
 | Quiz 2                                                       | 10%    |
@@ -147,6 +147,7 @@ One easy way to record your interactions with LLMs is, for example, the "Share l
 [phase_1]: {% link _pages/project/phase_1.md %}
 [phase_2]: {% link _pages/project/phase_2.md %}
 [phase_3]: {% link _pages/project/phase_3.md %}
+[phase_4]: {% link _pages/project/phase_4.md %}
 [quizzes]: {% link _pages/quizzes.md %}
 [resources]: {% link _pages/resources.md %}
 [schedule]: {% link _pages/schedule.md %}

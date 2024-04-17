@@ -30,7 +30,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 1. 04/01 --- [Loop Optimizations][l09] ([6 slides/page][l09-6])
 1. 04/03 --- [Register Allocation][l10] ([6 slides/page][l10-6])
 1. 04/04 --- [Parallelization][l11] ([6 slides/page][l11-6])
-1. 04/08--TBD --- [Foundations of Dataflow Analysis][l12] ([6 slides/page][l12-6])
+1. 04/08--04/10 --- [Foundations of Dataflow Analysis][l12] ([6 slides/page][l12-6])
 
 ### Optional content
 
@@ -85,6 +85,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 2. 02/21 --- [High-level IR, semantic checking][rl-2] ([6 pages/slide][rl-2-6pages])
 3. 03/06 --- [Code generation][rl-3] ([6 pages/slide][rl-3-6pages])
 4. 04/03 --- [Program analysis and optimization][rl-4] ([6 pages/slide][rl-4-6pages])
+5. 04/17 --- [Foundations of dataflow analysis][rl-5] ([6 pages/slide][rl-5-6pages])
 
 [rl-1]: assets/documents/relectures/relecture-1.pdf
 [rl-1-6pages]: assets/documents/relectures/relecture-1-6pages.pdf
@@ -94,6 +95,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [rl-3-6pages]: assets/documents/relectures/relecture-3-6pages.pdf
 [rl-4]: assets/documents/relectures/relecture-4.pdf
 [rl-4-6pages]: assets/documents/relectures/relecture-4-6pages.pdf
+[rl-5]: assets/documents/relectures/relecture-5.pdf
+[rl-5-6pages]: assets/documents/relectures/relecture-5-6pages.pdf
 
 ## Quiz reviews
 

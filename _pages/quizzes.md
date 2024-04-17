@@ -35,10 +35,10 @@ Quiz 2 will be held during class time on __Friday, May 3__ at our usual classroo
 > - In previous years, we covered shift-reduce parsing. This will not be on the quiz this year.
 
 - Spring 2024: [Quiz 1](/assets/documents/quizzes/2024sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam1-key.pdf))
-- Spring 2023: [Quiz 1](/assets/documents/quizzes/2023sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam1-key.pdf))
+- Spring 2023: [Quiz 1](/assets/documents/quizzes/2023sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2023sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam2-key.pdf))
 - Spring 2022: [Quiz 1](/assets/documents/quizzes/2022sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2022sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam2-key.pdf))
 - Fall 2018: [Quiz 1](/assets/documents/quizzes/2018fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2018fa-exam1-key.pdf))
-- Fall 2017: [Quiz 1](/assets/documents/quizzes/2017fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2017fa-exam1-key.pdf))
+- Fall 2017: [Quiz 1](/assets/documents/quizzes/2017fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2017fa-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2017fa-exam2.pdf) ([Solution](/assets/documents/quizzes/2017fa-exam2-key.pdf))
 - Fall 2016: [Quiz 1](/assets/documents/quizzes/2016fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2016fa-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2016fa-exam2.pdf) ([Solution](/assets/documents/quizzes/2016fa-exam2-key.pdf))
 
 {: .note }

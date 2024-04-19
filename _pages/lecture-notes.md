@@ -78,6 +78,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 5. 03/08 --- Project phase 3: [announcements](assets/documents/recitations/r05-phase3.pdf), [code](https://github.com/6110-sp24/recitation5)
 6. 03/22 --- [Introduction to SSA](assets/documents/recitations/r06-ssa.pdf)
 7. 04/05 --- [Project phase 4](assets/documents/recitations/r07-phase4.pdf)
+8. 04/19 --- [Project phase 5](assets/documents/recitations/r08-phase5.pdf)
 
 ## Re-lectures
 

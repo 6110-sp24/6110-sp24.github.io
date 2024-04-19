@@ -87,7 +87,8 @@ You will turn in a Project Design Document that details the technical details of
 
 ### Compiler Derby
 
-The last class will be the *Compiler Derby* at which your group will compete against other groups to identify the compiler that produces the fastest code. The application used for the Derby will be provided to the groups one day before the Derby. This is done in order for your group to debug the compiler and get it working on this program. However, you are forbidden from adding any application-specific hacks to make this specific program run faster.
+The last class will be the *Compiler Derby* at which your group will compete against other groups to identify the compiler that produces the fastest code.
+<!-- The application used for the Derby will be provided to the groups one day before the Derby. This is done in order for your group to debug the compiler and get it working on this program. However, you are forbidden from adding any application-specific hacks to make this specific program run faster. -->
 
 ## Grading Details
 

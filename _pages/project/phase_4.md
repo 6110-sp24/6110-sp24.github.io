@@ -11,7 +11,7 @@ In this phase, you will add dataflow optimizations to your compiler.
 > 1. A [Project Design Document](#design-document) explaining your implementation of dataflow optimizations.
 > 2. Your Decaf compiler, with at least one dataflow optimization implemented.
 >
-> See the [Evaluation section](#evaluation) section for details on grading.
+> See the [Evaluation section](#evaluation) for details on grading.
 >
 > Only one submission is needed for each team --- please use Gradescope's feature to add multiple people to a single submission.
 

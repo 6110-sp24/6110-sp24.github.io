@@ -68,15 +68,6 @@ While the autograder will return some benchmark statistics (mean, median, standa
 
 Note that the provided programs must be linked against the library provided in `derby/lib/` directory. We have provided versions for x86 Linux and x86 macOS, as well as the source file should you choose to compile it yourself. You should also make sure that any valid program provided during previous phases continues to run correctly.
 
-
-
-## Derby
-
-{: .note }
-More information about the Compiler Derby will be posted later.
-
-On the last day of class (May 14), we will run a Compiler Derby in which your group will compete against other groups to identify the compiler that produces the fastest code. The programs used in the derby will be similar to/include the ones in the benchmark suite on the autograder.
-
 ### Phase 5 Autograder Information
 
 The phase 5 autograder works a little differently from the previous phases. In previous phases, we were only concerned with correctness, not the speed of the code.
@@ -110,6 +101,12 @@ cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
 ````
 
+## Derby
+
+{: .note }
+More information about the Compiler Derby will be posted later.
+
+On the last day of class (May 14), we will run a Compiler Derby in which your group will compete against other groups to identify the compiler that produces the fastest code. The programs used in the derby will be similar to/include the ones in the benchmark suite on the autograder.
 
 ## Specifications
 

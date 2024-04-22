@@ -26,7 +26,13 @@ Your quiz grade has been released on Gradescope. You can find the quiz solutions
 
 ## Quiz 2
 
-Quiz 2 will be held during class time on __Friday, May 3__ at our usual classroom (32-124). More information about Quiz 2 will be posted later.
+Quiz 2 will be held during class time on __Friday, May 3__ at our usual classroom (32-124).
+The quiz will cover material starting from the Program Analysis lectures. This corresponds to:
+- Lecture slide decks 7--12 on the [Lecture Slides][lecture-notes] page.
+- Re-lectures 4--6 on the [Lecture Slides][lecture-notes] page.
+- [Miniquizzes][miniquizzes] 5--8.
+
+We will have a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, May 1, during which we will go over Quiz 2 from Spring 2023. The review session will be recorded.
 
 ## Past quizzes
 

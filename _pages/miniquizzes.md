@@ -16,3 +16,4 @@ As long as you have submitted on Gradescope, you will receive *full credit* for 
 - [Miniquiz #4 (due Mar 7)](https://www.gradescope.com/courses/727449/assignments/4178941) --- x86 introduction, stacks, addressing ([Solution](/assets/documents/miniquizzes/miniquiz-4-sol.pdf))
 - [Miniquiz #5 (due Apr 4)](https://www.gradescope.com/courses/727449/assignments/4251039) --- Dataflow analyses (reaching definitions, live variables, available expressions) ([Solution](/assets/documents/miniquizzes/miniquiz-5-sol.pdf))
 - [Miniquiz #6 (due Apr 11)](https://www.gradescope.com/courses/727449/assignments/4329608) --- Loop optimizations, parallelization
+- [Miniquiz #7 (due Apr 25)](https://www.gradescope.com/courses/727449/assignments/4390950) --- Lattices, sign analysis

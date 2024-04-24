@@ -87,6 +87,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 3. 03/06 --- [Code generation][rl-3] ([6 pages/slide][rl-3-6pages])
 4. 04/03 --- [Program analysis and optimization][rl-4] ([6 pages/slide][rl-4-6pages])
 5. 04/17 --- [Foundations of dataflow analysis][rl-5] ([6 pages/slide][rl-5-6pages])
+6. 04/24 --- [Register allocation, loop optimizations, parallelization][rl-6]: see lecture slides [L09][l09], [L10][l10], [L11][l11].
 
 [rl-1]: assets/documents/relectures/relecture-1.pdf
 [rl-1-6pages]: assets/documents/relectures/relecture-1-6pages.pdf
@@ -98,6 +99,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [rl-4-6pages]: assets/documents/relectures/relecture-4-6pages.pdf
 [rl-5]: assets/documents/relectures/relecture-5.pdf
 [rl-5-6pages]: assets/documents/relectures/relecture-5-6pages.pdf
+[rl-6]: assets/documents/relectures/relecture-6.pdf
 
 ## Quiz reviews
 

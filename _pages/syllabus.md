@@ -6,6 +6,12 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
+{: .weekly }
+> - There are no lectures this week (4/29 - 5/2).
+> - [Quiz 2][quizzes] is on **Friday, May 3** during class time (11am in 32-124).
+> - We will have a quiz review session on **Wednesday, May 1** during relecture time (4-6pm in 26-322).  In the review session we’ll briefly review important concepts from lecture and then go over the Spring 2023 quiz. The review session will be recorded.
+> - Solutions for [Miniquiz 6 and 7][miniquizzes] have been posted. We'll grade them shortly --- apologies for the current delay in grading.
+
 {% include toc.html %}
 
 ## Basic Information
@@ -145,6 +151,7 @@ One easy way to record your interactions with LLMs is, for example, the "Share l
 [phase_4]: {% link _pages/project/phase_4.md %}
 [phase_5]: {% link _pages/project/phase_5.md %}
 [quizzes]: {% link _pages/quizzes.md %}
+[miniquizzes]: {% link _pages/miniquizzes.md %}
 [resources]: {% link _pages/resources.md %}
 [schedule]: {% link _pages/schedule.md %}
 [project]: {% link _pages/project.md %}

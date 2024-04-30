@@ -30,7 +30,7 @@ Quiz 2 will be held during class time on __Friday, May 3__ at our usual classroo
 The quiz will cover material starting from the Program Analysis lectures. This corresponds to:
 - Lecture slide decks 7--12 on the [Lecture Slides][lecture-notes] page.
 - Re-lectures 4--6 on the [Lecture Slides][lecture-notes] page.
-- [Miniquizzes][miniquizzes] 5--8.
+- [Miniquizzes][miniquizzes] 5--7, plus register allocation.
 
 We will have a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, May 1, during which we will go over Quiz 2 from Spring 2023. The review session will be recorded.
 
@@ -38,7 +38,7 @@ We will have a quiz review session during re-lecture time (4-6pm in 26-322) on W
 
 {: .note }
 > - While we are giving you past quizzes back to 2011, we strongly recommend just studying the more recent ones.
-> - In previous years, we covered shift-reduce parsing. This will not be on the quiz this year.
+> - (For Quiz 1:) In previous years, we covered shift-reduce parsing. This will not be on the quiz this year.
 
 - Spring 2024: [Quiz 1](/assets/documents/quizzes/2024sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam1-key.pdf))
 - Spring 2023: [Quiz 1](/assets/documents/quizzes/2023sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2023sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam2-key.pdf))
@@ -48,7 +48,9 @@ We will have a quiz review session during re-lecture time (4-6pm in 26-322) on W
 - Fall 2016: [Quiz 1](/assets/documents/quizzes/2016fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2016fa-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2016fa-exam2.pdf) ([Solution](/assets/documents/quizzes/2016fa-exam2-key.pdf))
 
 {: .note }
-Prior to Fall 2016, there used to be three quizzes. The material that will be on this year's Quiz 1 roughly corresponds to Quiz 1 and the first question of Quiz 2 from these years.
+> Prior to Fall 2016, there used to be three quizzes.
+> - The material that will be on this year's Quiz 1 roughly corresponds to Quiz 1 and the first question of Quiz 2 from these years.
+> - The material that will be on this year's Quiz 2 roughly corresponds to Quiz 3 and the remaining questions from Quiz 2 from these years, though some older years covered instruction scheduling, which will not be on this year's Quiz 2.
 
 - Spring 2016: [Quiz 1](/assets/documents/quizzes/2016sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2016sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2016sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2016sp-exam2-key.pdf)), [Quiz 3](/assets/documents/quizzes/2016sp-exam3.pdf) ([Solution](/assets/documents/quizzes/2016sp-exam3-key.pdf))
 - Fall 2014: [Quiz 1](/assets/documents/quizzes/2014-exam1.pdf) ([Solution](/assets/documents/quizzes/2014-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2014-exam2.pdf) ([Solution](/assets/documents/quizzes/2014-exam2-key.pdf)), [Quiz 3](/assets/documents/quizzes/2014-exam3.pdf) ([Solution](/assets/documents/quizzes/2014-exam3-key.pdf))

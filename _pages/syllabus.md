@@ -10,7 +10,8 @@ nav_order: 10
 > - There are no lectures this week (4/29 - 5/2).
 > - [Quiz 2][quizzes] is on **Friday, May 3** during class time (11am in 32-124).
 > - We will have a quiz review session on **Wednesday, May 1** during relecture time (4-6pm in 26-322).  In the review session we’ll briefly review important concepts from lecture and then go over the Spring 2023 quiz. The review session will be recorded.
-> - Solutions for [Miniquiz 6 and 7][miniquizzes] have been posted. We'll grade them shortly --- apologies for the current delay in grading.
+> - Solutions for [Miniquiz 6 and 7][miniquizzes] have been posted.
+> - Grades for Phase 4 have been posted on Gradescope.
 
 {% include toc.html %}
 
@@ -108,8 +109,8 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 | [Project phase 3][phase_3] (code generation)                                                       | 15%    |
 | [Project phase 4][phase_4] (dataflow optimization)                                                 | 10%    |
 | [Project phase 5][phase_5] (register allocation and other optimizations) <br/>and final submission | 40%    |
-| Quiz 1                                                                                             | 10%    |
-| Quiz 2                                                                                             | 10%    |
+| [Quiz 1][quizzes]                                                                                  | 10%    |
+| [Quiz 2][quizzes]                                                                                  | 10%    |
 | Participation (weekly miniquizzes and check-in form)                                               | 5%     |
 
 For more information on the way the compiler project is graded, see the [Project Overview][project].

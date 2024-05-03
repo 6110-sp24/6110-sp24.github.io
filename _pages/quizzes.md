@@ -32,13 +32,17 @@ The quiz will cover material starting from the Program Analysis lectures. This c
 - Re-lectures 4--6 on the [Lecture Slides][lecture-notes] page.
 - [Miniquizzes][miniquizzes] 5--7, plus register allocation.
 
+{: .note }
+> During the review session, a mistake was made in problem 4b (loop optimizations) from Spring 2023 -- we forgot to account for the case where the loop is not executed. We've uploaded a fixed version of the annotated quiz.
 
 We had a quiz review session during re-lecture time (4-6pm in 26-322) on Wednesday, May 1.
 Here are the materials from the review session:
 - [Review slides](/assets/documents/quiz-reviews/q2-review.pdf)
-- [Annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q2-review-2023sp-exam2.pdf)
+- [Annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q2-review-2023sp-exam2-fixed.pdf)
 
-The recording of the review session will be available on the course Panopto shortly (linked on Piazza).
+The recording of the review session is available on the course Panopto (linked on Piazza).
+
+
 
 
 ## Past quizzes

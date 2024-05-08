@@ -42,6 +42,7 @@ Here are the materials from the review session:
 
 The recording of the review session is available on the course Panopto (linked on Piazza).
 
+Your quiz grade has been released on Gradescope. You can find the quiz solutions here: [Quiz 2 solution](/assets/documents/quizzes/2024sp-exam2-key.pdf).
 
 
 
@@ -51,7 +52,7 @@ The recording of the review session is available on the course Panopto (linked o
 > - While we are giving you past quizzes back to 2011, we strongly recommend just studying the more recent ones.
 > - (For Quiz 1:) In previous years, we covered shift-reduce parsing. This will not be on the quiz this year.
 
-- Spring 2024: [Quiz 1](/assets/documents/quizzes/2024sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam1-key.pdf))
+- Spring 2024: [Quiz 1](/assets/documents/quizzes/2024sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2024sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam2-key.pdf))
 - Spring 2023: [Quiz 1](/assets/documents/quizzes/2023sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2023sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam2-key.pdf))
 - Spring 2022: [Quiz 1](/assets/documents/quizzes/2022sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2022sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam2-key.pdf))
 - Fall 2018: [Quiz 1](/assets/documents/quizzes/2018fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2018fa-exam1-key.pdf))

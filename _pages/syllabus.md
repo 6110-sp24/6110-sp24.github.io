@@ -7,11 +7,11 @@ nav_order: 10
 <h1> Computer Language Engineering (6.110) </h1>
 
 {: .weekly }
-> - There are no lectures this week (4/29 - 5/2).
-> - [Quiz 2][quizzes] is on **Friday, May 3** during class time (11am in 32-124).
-> - We will have a quiz review session on **Wednesday, May 1** during relecture time (4-6pm in 26-322).  In the review session we’ll briefly review important concepts from lecture and then go over the Spring 2023 quiz. The review session will be recorded.
-> - Solutions for [Miniquiz 6 and 7][miniquizzes] have been posted.
-> - Grades for Phase 4 have been posted on Gradescope.
+> - There are no lectures this week (5/6 - 5/10).
+> - [Project phase 5][phase_5] is due on **Monday, May 13**.
+> - Class will meet again for the Compiler Derby and a wrap-up discussion on **Tuesday, May 14** (last day of class).
+> - Quiz 2 has been graded and returned on Gradescope. Regrade requests are open until **Monday, May 13**.
+> - You can find the quiz solutions here: [Quiz 2 solution](/assets/documents/quizzes/2024sp-exam2-key.pdf).
 
 {% include toc.html %}
 

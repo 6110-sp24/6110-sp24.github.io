@@ -51,9 +51,6 @@ The use of vector instructions can be tricky. We refer you to [Superword Level P
 
 ## Performance testing
 
-{: .note }
-The current set of benchmark programs on the autograder is not finalized yet, and benchmark programs may be added or removed.
-
 The test cases we have provided during the previous phases are much too simple to be used as effective benchmarks for the performance of your compiler. For this phase, we will run your compiler on a benchmark suite of more complex programs simulating various real-world workloads.
 
 Some of these programs will be released to you, while the rest will only be available on the autograder. Your first priority is to produce correct unoptimized assembly code for each benchmark.

@@ -7,11 +7,9 @@ nav_order: 10
 <h1> Computer Language Engineering (6.110) </h1>
 
 {: .weekly }
-> - There are no lectures this week (5/6 - 5/10).
-> - [Project phase 5][phase_5] is due on **Monday, May 13**.
-> - Class will meet again for the Compiler Derby and a wrap-up discussion on **Tuesday, May 14** (last day of class).
-> - Quiz 2 has been graded and returned on Gradescope. Regrade requests are open until **Monday, May 13**.
-> - You can find the quiz solutions here: [Quiz 2 solution](/assets/documents/quizzes/2024sp-exam2-key.pdf).
+> - [Project phase 5][phase_5] is due at **11:59 PM on Monday, May 13**. As usual, this includes the report. [More information][phase_5_perf] about the performance grade is now up on the Phase 5 page.
+> - Class will meet again for the Compiler Derby and a wrap-up discussion on **Tuesday, May 14** (last day of class). Each team will get a chance to give a short, informal explanation of their compiler. Please join us for this celebration of all of your hard work in this class :)
+> - Quiz 2 has been graded and returned on Gradescope. Regrade requests are open until **Monday, May 13**. You can find the quiz solutions here: [Quiz 2 solution](/assets/documents/quizzes/2024sp-exam2-key.pdf).
 
 {% include toc.html %}
 
@@ -151,6 +149,7 @@ One easy way to record your interactions with LLMs is, for example, the "Share l
 [phase_3]: {% link _pages/project/phase_3.md %}
 [phase_4]: {% link _pages/project/phase_4.md %}
 [phase_5]: {% link _pages/project/phase_5.md %}
+[phase_5_perf]: {% link _pages/project/phase_5.md %}#performance-evaluation
 [quizzes]: {% link _pages/quizzes.md %}
 [miniquizzes]: {% link _pages/miniquizzes.md %}
 [resources]: {% link _pages/resources.md %}

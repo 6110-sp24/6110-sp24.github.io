@@ -100,10 +100,7 @@ address sizes	: 40 bits physical, 48 bits virtual
 
 ## Derby
 
-{: .note }
-More information about the Compiler Derby will be posted later.
-
-On the last day of class (May 14), we will run a Compiler Derby in which your group will compete against other groups to identify the compiler that produces the fastest code. The programs used in the derby will be similar to/include the ones in the benchmark suite on the autograder.
+On the last day of class (May 14), we will run a Compiler Derby in which your group will compete against other groups to identify the compiler that produces the fastest code. The programs used in the derby will be the ones in the benchmark suite on the autograder. Each team will also get a chance to give a short, informal explanation of their compiler.
 
 ## Specifications
 
@@ -150,7 +147,27 @@ Your final submission at the end of this phase is worth 40% of the overall grade
 - **30%:** Your overall work on the compiler project, including:
   - **5%:** Your overall design document, including summaries of previous phases in the Design section (§1) as well as the Extras, Difficulties, and Contribution sections (§2--4).
   - **15%:** The correctness of your final Decaf compiler, both without optimizations and with optimizations enabled (`-O all`). This includes correctness on all the previously released test cases (available either at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests) or the [`6110-sp24/private-tests` repository](https://github.com/6110-sp24/private-tests)) as well as on the Derby benchmark suite.
-  - **10%:** The performance of your final Decaf compiler on the Derby benchmark suite.
+  - **10%:** The performance of your final Decaf compiler on the Derby benchmark suite (see below).
+
+### Performance evaluation
+
+You can find the performance results of your submitted code, as well as other teams (under anonymized names), at [the Phase 5 leaderboard](https://6110.yolandgao.com). You should have received your anonymized team name on GitHub.
+
+The “Speedup” column on the leaderboard is a geometric mean of the speedup you achieved on each of the test cases listed on the leaderboard, with 2x weight given to the last four test cases (`derby`, `dynprog`, `matmul`, and `mergesort`).
+
+Your performance score (out of 10) will be calculated from your "Speedup" column on the leaderboard using the following formula:
+<center>
+$$\textrm{score} = \max\{0, 10 \cdot e^{-0.9\cdot (\textrm{speedup} - 0.7)}\}.$$
+</center>
+Here are some values of (speedup, score) from this formula:
+
+| Speedup | Score |
+| ------- | ----- |
+| 0.7     | 0     |
+| 1       | 2.37  |
+| 2       | 6.90  |
+| 3       | 8.74  |
+| 4       | 9.49  |
 
 ## Submission
 

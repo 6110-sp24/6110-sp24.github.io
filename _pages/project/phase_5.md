@@ -157,7 +157,7 @@ The “Speedup” column on the leaderboard is a geometric mean of the speedup y
 
 Your performance score (out of 10) will be calculated from your "Speedup" column on the leaderboard using the following formula:
 <center>
-$$\textrm{score} = \max\{0, 10 \cdot e^{-0.9\cdot (\textrm{speedup} - 0.7)}\}.$$
+$$\textrm{score} = \max\{0, 10 \left( 1 - e^{-0.9\cdot (\textrm{speedup} - 0.7)} \right) \}.$$
 </center>
 Here are some values of (speedup, score) from this formula:
 

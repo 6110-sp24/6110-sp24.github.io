@@ -6,10 +6,9 @@ nav_order: 10
 
 <h1> Computer Language Engineering (6.110) </h1>
 
-{: .weekly }
-> - [Project phase 5][phase_5] is due at **11:59 PM on Monday, May 13**. As usual, this includes the report. [More information][phase_5_perf] about the performance grade is now up on the Phase 5 page.
-> - Class will meet again for the Compiler Derby and a wrap-up discussion on **Tuesday, May 14** (last day of class). Each team will get a chance to give a short, informal explanation of their compiler. Please join us for this celebration of all of your hard work in this class :)
-> - Quiz 2 has been graded and returned on Gradescope. Regrade requests are open until **Monday, May 13**. You can find the quiz solutions here: [Quiz 2 solution](/assets/documents/quizzes/2024sp-exam2-key.pdf).
+{: .warning }
+> This is the website for 6.110 in **Spring 2024** and is out of date.
+> Make sure you are viewing the correct website for this semester.
 
 {% include toc.html %}
 

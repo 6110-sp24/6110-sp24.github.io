@@ -104,7 +104,10 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 ## Quiz reviews
 
 1. 03/13 --- Quiz 1 review: [review slides](/assets/documents/quiz-reviews/q1-review.pdf), [annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q1-review-2023sp-exam1.pdf)
+1. 05/01 --- Quiz 2 review: [review slides](/assets/documents/quiz-reviews/q2-review.pdf), [annotated Spring 2023 quiz](/assets/documents/quiz-reviews/q2-review-2023sp-exam2-fixed.pdf)
 
 ## Recordings
 
-All recitations and re-lectures are recorded and published on Panopto. The course folder link is on Piazza.
+All recitations and re-lectures are recorded and [published on Panopto][panopto].
+
+[panopto]: https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d9c5bec3-4afa-49de-9a1b-b111011782b3
